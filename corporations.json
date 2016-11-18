@@ -1,5926 +1,5926 @@
 {
   "nodes": [
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "王金璐", 
-      "attributes": {}, 
-      "y": -1548, 
       "x": -1153, 
+      "y": -1548, 
+      "attributes": {}, 
       "id": "王金璐", 
-      "size": 14
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "裘少戎", 
-      "attributes": {}, 
-      "y": -282, 
       "x": -3451, 
+      "y": -282, 
+      "attributes": {}, 
       "id": "裘少戎", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#1919c7", 
       "label": "裘世戎", 
-      "attributes": {}, 
-      "y": -15, 
       "x": -832, 
+      "y": -15, 
+      "attributes": {}, 
       "id": "裘世戎", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#1919c7", 
       "label": "金碧莲", 
-      "attributes": {}, 
-      "y": -1759, 
       "x": 4610, 
+      "y": -1759, 
+      "attributes": {}, 
       "id": "金碧莲", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "高韵笙", 
-      "attributes": {}, 
-      "y": 1020, 
       "x": 2066, 
+      "y": 1020, 
+      "attributes": {}, 
       "id": "高韵笙", 
-      "size": 1
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "阎岚秋", 
-      "attributes": {}, 
-      "y": -696, 
-      "x": 102, 
-      "id": "阎岚秋", 
-      "size": 5
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "陈正柱", 
-      "attributes": {}, 
-      "y": 405, 
-      "x": 1309, 
-      "id": "陈正柱", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "辛宝达", 
+      "color": "#E62F57", 
+      "label": "阎岚秋", 
+      "x": 102, 
+      "y": -696, 
       "attributes": {}, 
-      "y": 2022, 
+      "id": "阎岚秋", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "陈正柱", 
+      "x": 1309, 
+      "y": 405, 
+      "attributes": {}, 
+      "id": "陈正柱", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "辛宝达", 
       "x": -2381, 
+      "y": 2022, 
+      "attributes": {}, 
       "id": "辛宝达", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#8419c7", 
       "label": "李蔷华", 
-      "attributes": {}, 
-      "y": 811, 
       "x": -4904, 
+      "y": 811, 
+      "attributes": {}, 
       "id": "李蔷华", 
-      "size": 20
+      "size": 17
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "杨瑞亭", 
-      "attributes": {}, 
-      "y": 1401, 
       "x": 4186, 
+      "y": 1401, 
+      "attributes": {}, 
       "id": "杨瑞亭", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "梁庆云", 
-      "attributes": {}, 
-      "y": 1398, 
       "x": -2546, 
+      "y": 1398, 
+      "attributes": {}, 
       "id": "梁庆云", 
-      "size": 9
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "陆义萍", 
-      "attributes": {}, 
-      "y": 715, 
       "x": 2106, 
+      "y": 715, 
+      "attributes": {}, 
       "id": "陆义萍", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "舒昌玉", 
-      "attributes": {}, 
-      "y": 834, 
       "x": -3571, 
+      "y": 834, 
+      "attributes": {}, 
       "id": "舒昌玉", 
-      "size": 3
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "沈世启", 
-      "attributes": {}, 
-      "y": 1732, 
       "x": 3246, 
+      "y": 1732, 
+      "attributes": {}, 
       "id": "沈世启", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "安平", 
-      "attributes": {}, 
-      "y": 29, 
       "x": 95, 
+      "y": 29, 
+      "attributes": {}, 
       "id": "安平", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "张宝昆", 
-      "attributes": {}, 
-      "y": -611, 
       "x": 2017, 
+      "y": -611, 
+      "attributes": {}, 
       "id": "张宝昆", 
       "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E62F57", 
       "label": "王凤卿", 
-      "attributes": {}, 
-      "y": -404, 
       "x": 154, 
+      "y": -404, 
+      "attributes": {}, 
       "id": "王凤卿", 
-      "size": 10
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "王泉奎", 
-      "attributes": {}, 
-      "y": 1536, 
-      "x": -3254, 
-      "id": "王泉奎", 
-      "size": 21
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "孟丽君", 
-      "attributes": {}, 
-      "y": 705, 
-      "x": -3488, 
-      "id": "孟丽君", 
-      "size": 10
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "胡喜禄", 
-      "attributes": {}, 
-      "y": -776, 
-      "x": 2628, 
-      "id": "胡喜禄", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "陈丽芳", 
+      "color": "#1919c7", 
+      "label": "王泉奎", 
+      "x": -3254, 
+      "y": 1536, 
       "attributes": {}, 
-      "y": -1609, 
-      "x": -3205, 
-      "id": "陈丽芳", 
+      "id": "王泉奎", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "孟丽君", 
+      "x": -3488, 
+      "y": 705, 
+      "attributes": {}, 
+      "id": "孟丽君", 
       "size": 4
     }, 
     {
-      "color": "#005EAA", 
-      "label": "迟小秋", 
+      "color": "#39F813", 
+      "label": "胡喜禄", 
+      "x": 2628, 
+      "y": -776, 
       "attributes": {}, 
-      "y": -1068, 
-      "x": 1782, 
-      "id": "迟小秋", 
-      "size": 2
+      "id": "胡喜禄", 
+      "size": 3
     }, 
     {
-      "color": "#CDA819", 
-      "label": "恩晓峰", 
+      "color": "#1919c7", 
+      "label": "陈丽芳", 
+      "x": -3205, 
+      "y": -1609, 
       "attributes": {}, 
-      "y": 2085, 
+      "id": "陈丽芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "迟小秋", 
+      "x": 1782, 
+      "y": -1068, 
+      "attributes": {}, 
+      "id": "迟小秋", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "恩晓峰", 
       "x": -2731, 
+      "y": 2085, 
+      "attributes": {}, 
       "id": "恩晓峰", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#1919c7", 
       "label": "杨隆寿", 
-      "attributes": {}, 
-      "y": -2248, 
       "x": 2338, 
+      "y": -2248, 
+      "attributes": {}, 
       "id": "杨隆寿", 
-      "size": 1
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "王正屏", 
-      "attributes": {}, 
-      "y": 1116, 
-      "x": 2530, 
-      "id": "王正屏", 
-      "size": 3
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "迟世恭", 
-      "attributes": {}, 
-      "y": 2314, 
-      "x": 1116, 
-      "id": "迟世恭", 
-      "size": 3
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "沈福存", 
-      "attributes": {}, 
-      "y": 1215, 
-      "x": -4675, 
-      "id": "沈福存", 
-      "size": 1
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "唐元才", 
-      "attributes": {}, 
-      "y": -436, 
-      "x": -1527, 
-      "id": "唐元才", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
-      "label": "张笠媛", 
+      "color": "#E62F57", 
+      "label": "王正屏", 
+      "x": 2530, 
+      "y": 1116, 
       "attributes": {}, 
-      "y": -1962, 
+      "id": "王正屏", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "迟世恭", 
+      "x": 1116, 
+      "y": 2314, 
+      "attributes": {}, 
+      "id": "迟世恭", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "沈福存", 
+      "x": -4675, 
+      "y": 1215, 
+      "attributes": {}, 
+      "id": "沈福存", 
+      "size": 9
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "唐元才", 
+      "x": -1527, 
+      "y": -436, 
+      "attributes": {}, 
+      "id": "唐元才", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "张笠媛", 
       "x": -571, 
+      "y": -1962, 
+      "attributes": {}, 
       "id": "张笠媛", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "程继先", 
-      "attributes": {}, 
-      "y": 356, 
       "x": 4580, 
+      "y": 356, 
+      "attributes": {}, 
       "id": "程继先", 
-      "size": 6
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "安舒元", 
-      "attributes": {}, 
-      "y": 1581, 
       "x": -4743, 
+      "y": 1581, 
+      "attributes": {}, 
       "id": "安舒元", 
-      "size": 6
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "方小亚", 
-      "attributes": {}, 
-      "y": 983, 
-      "x": -4313, 
-      "id": "方小亚", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "吴菱仙", 
-      "attributes": {}, 
-      "y": -626, 
-      "x": -3577, 
-      "id": "吴菱仙", 
-      "size": 2
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "娄振奎", 
-      "attributes": {}, 
-      "y": -1959, 
-      "x": -4489, 
-      "id": "娄振奎", 
-      "size": 10
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "徐小香", 
-      "attributes": {}, 
-      "y": 1041, 
-      "x": -2156, 
-      "id": "徐小香", 
-      "size": 3
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "俞菊笙", 
-      "attributes": {}, 
-      "y": -525, 
-      "x": -4477, 
-      "id": "俞菊笙", 
-      "size": 6
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "孙明珠", 
-      "attributes": {}, 
-      "y": -100, 
-      "x": 1118, 
-      "id": "孙明珠", 
-      "size": 10
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "邹功甫", 
-      "attributes": {}, 
-      "y": 513, 
-      "x": -109, 
-      "id": "邹功甫", 
-      "size": 13
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "蒋叔岩", 
-      "attributes": {}, 
-      "y": -1573, 
-      "x": -2495, 
-      "id": "蒋叔岩", 
-      "size": 4
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "宋富亭", 
-      "attributes": {}, 
-      "y": -1669, 
-      "x": -1901, 
-      "id": "宋富亭", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
-      "label": "孙岳", 
+      "color": "#39F813", 
+      "label": "方小亚", 
+      "x": -4313, 
+      "y": 983, 
       "attributes": {}, 
-      "y": -399, 
-      "x": -3222, 
-      "id": "孙岳", 
-      "size": 6
+      "id": "方小亚", 
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
-      "label": "赵炳啸", 
+      "color": "#1919c7", 
+      "label": "吴菱仙", 
+      "x": -3577, 
+      "y": -626, 
       "attributes": {}, 
-      "y": -1395, 
-      "x": -2876, 
-      "id": "赵炳啸", 
-      "size": 25
+      "id": "吴菱仙", 
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
-      "label": "李胜素", 
+      "color": "#E62F57", 
+      "label": "娄振奎", 
+      "x": -4489, 
+      "y": -1959, 
       "attributes": {}, 
-      "y": -1706, 
-      "x": -4051, 
-      "id": "李胜素", 
+      "id": "娄振奎", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "徐小香", 
+      "x": -2156, 
+      "y": 1041, 
+      "attributes": {}, 
+      "id": "徐小香", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "俞菊笙", 
+      "x": -4477, 
+      "y": -525, 
+      "attributes": {}, 
+      "id": "俞菊笙", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "孙明珠", 
+      "x": 1118, 
+      "y": -100, 
+      "attributes": {}, 
+      "id": "孙明珠", 
       "size": 3
     }, 
     {
-      "color": "#CDA819", 
-      "label": "朱秉谦", 
+      "color": "#8E1AC8", 
+      "label": "邹功甫", 
+      "x": -109, 
+      "y": 513, 
       "attributes": {}, 
-      "y": 484, 
-      "x": -545, 
-      "id": "朱秉谦", 
+      "id": "邹功甫", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "蒋叔岩", 
+      "x": -2495, 
+      "y": -1573, 
+      "attributes": {}, 
+      "id": "蒋叔岩", 
       "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
+      "label": "宋富亭", 
+      "x": -1901, 
+      "y": -1669, 
+      "attributes": {}, 
+      "id": "宋富亭", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "孙岳", 
+      "x": -3222, 
+      "y": -399, 
+      "attributes": {}, 
+      "id": "孙岳", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "赵炳啸", 
+      "x": -2876, 
+      "y": -1395, 
+      "attributes": {}, 
+      "id": "赵炳啸", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "李胜素", 
+      "x": -4051, 
+      "y": -1706, 
+      "attributes": {}, 
+      "id": "李胜素", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "朱秉谦", 
+      "x": -545, 
+      "y": 484, 
+      "attributes": {}, 
+      "id": "朱秉谦", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
       "label": "张二鹏", 
-      "attributes": {}, 
-      "y": 1569, 
       "x": 4630, 
+      "y": 1569, 
+      "attributes": {}, 
       "id": "张二鹏", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "杨春霞", 
-      "attributes": {}, 
-      "y": 1076, 
       "x": -325, 
+      "y": 1076, 
+      "attributes": {}, 
       "id": "杨春霞", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "马玉琪", 
-      "attributes": {}, 
-      "y": -1068, 
       "x": -1014, 
+      "y": -1068, 
+      "attributes": {}, 
       "id": "马玉琪", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "毕谷云", 
-      "attributes": {}, 
-      "y": 2312, 
       "x": -805, 
+      "y": 2312, 
+      "attributes": {}, 
       "id": "毕谷云", 
-      "size": 2
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "李蓉芳", 
-      "attributes": {}, 
-      "y": 2310, 
-      "x": -1210, 
-      "id": "李蓉芳", 
-      "size": 5
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "张翼鹏", 
-      "attributes": {}, 
-      "y": 251, 
-      "x": -2144, 
-      "id": "张翼鹏", 
       "size": 4
     }, 
     {
-      "color": "#CDA819", 
-      "label": "李顺亭", 
+      "color": "#1919c7", 
+      "label": "李蓉芳", 
+      "x": -1210, 
+      "y": 2310, 
       "attributes": {}, 
-      "y": 2155, 
+      "id": "李蓉芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "张翼鹏", 
+      "x": -2144, 
+      "y": 251, 
+      "attributes": {}, 
+      "id": "张翼鹏", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "李顺亭", 
       "x": -2771, 
+      "y": 2155, 
+      "attributes": {}, 
       "id": "李顺亭", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "李万春", 
+      "x": -4470, 
+      "y": -1448, 
+      "attributes": {}, 
+      "id": "李万春", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "贾洪林", 
+      "x": -668, 
+      "y": -2480, 
+      "attributes": {}, 
+      "id": "贾洪林", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
-      "label": "李万春", 
-      "attributes": {}, 
-      "y": -1448, 
-      "x": -4470, 
-      "id": "李万春", 
-      "size": 24
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "贾洪林", 
-      "attributes": {}, 
-      "y": -2480, 
-      "x": -668, 
-      "id": "贾洪林", 
-      "size": 3
-    }, 
-    {
-      "color": "#C12E34", 
+      "color": "#8E1AC8", 
       "label": "金喜全", 
-      "attributes": {}, 
-      "y": -2355, 
       "x": 4603, 
+      "y": -2355, 
+      "attributes": {}, 
       "id": "金喜全", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#9ADC49", 
       "label": "黄正勤", 
-      "attributes": {}, 
-      "y": 1314, 
       "x": -4850, 
+      "y": 1314, 
+      "attributes": {}, 
       "id": "黄正勤", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "张幼麟", 
-      "attributes": {}, 
-      "y": -339, 
       "x": 3271, 
+      "y": -339, 
+      "attributes": {}, 
       "id": "张幼麟", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "刘喜益", 
-      "attributes": {}, 
-      "y": -2408, 
       "x": -768, 
+      "y": -2408, 
+      "attributes": {}, 
       "id": "刘喜益", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#19C95C", 
       "label": "祝元昆", 
-      "attributes": {}, 
-      "y": -1374, 
       "x": 2120, 
+      "y": -1374, 
+      "attributes": {}, 
       "id": "祝元昆", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "袁金绵", 
-      "attributes": {}, 
-      "y": -1899, 
       "x": 4082, 
+      "y": -1899, 
+      "attributes": {}, 
       "id": "袁金绵", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#c71919", 
       "label": "魏海敏", 
-      "attributes": {}, 
-      "y": 2490, 
       "x": 4470, 
+      "y": 2490, 
+      "attributes": {}, 
       "id": "魏海敏", 
-      "size": 2
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "周少楼", 
-      "attributes": {}, 
-      "y": 2026, 
-      "x": 3386, 
-      "id": "周少楼", 
-      "size": 5
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "李和曾", 
-      "attributes": {}, 
-      "y": 1760, 
-      "x": -3312, 
-      "id": "李和曾", 
-      "size": 7
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "李荣安", 
-      "attributes": {}, 
-      "y": 283, 
-      "x": 1390, 
-      "id": "李荣安", 
-      "size": 8
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "王桂卿", 
-      "attributes": {}, 
-      "y": -423, 
-      "x": -3825, 
-      "id": "王桂卿", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "言菊朋", 
-      "attributes": {}, 
-      "y": 2418, 
-      "x": 998, 
-      "id": "言菊朋", 
-      "size": 16
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "李慧芳", 
-      "attributes": {}, 
-      "y": 2347, 
-      "x": 3707, 
-      "id": "李慧芳", 
       "size": 11
     }, 
     {
-      "color": "#C12E34", 
-      "label": "梁小鸾", 
+      "color": "#F88A13", 
+      "label": "周少楼", 
+      "x": 3386, 
+      "y": 2026, 
       "attributes": {}, 
-      "y": -1086, 
-      "x": 177, 
-      "id": "梁小鸾", 
-      "size": 10
+      "id": "周少楼", 
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "齐和昌", 
+      "color": "#E0E750", 
+      "label": "李和曾", 
+      "x": -3312, 
+      "y": 1760, 
       "attributes": {}, 
-      "y": 1720, 
-      "x": 1427, 
-      "id": "齐和昌", 
+      "id": "李和曾", 
+      "size": 9
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李荣安", 
+      "x": 1390, 
+      "y": 283, 
+      "attributes": {}, 
+      "id": "李荣安", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "王桂卿", 
+      "x": -3825, 
+      "y": -423, 
+      "attributes": {}, 
+      "id": "王桂卿", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "言菊朋", 
+      "x": 998, 
+      "y": 2418, 
+      "attributes": {}, 
+      "id": "言菊朋", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "王鸿寿", 
+      "color": "#19C95C", 
+      "label": "李慧芳", 
+      "x": 3707, 
+      "y": 2347, 
       "attributes": {}, 
-      "y": -328, 
+      "id": "李慧芳", 
+      "size": 2
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "梁小鸾", 
+      "x": 177, 
+      "y": -1086, 
+      "attributes": {}, 
+      "id": "梁小鸾", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "齐和昌", 
+      "x": 1427, 
+      "y": 1720, 
+      "attributes": {}, 
+      "id": "齐和昌", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "王鸿寿", 
       "x": 1604, 
+      "y": -328, 
+      "attributes": {}, 
       "id": "王鸿寿", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "陈志清", 
-      "attributes": {}, 
-      "y": -398, 
       "x": -3717, 
+      "y": -398, 
+      "attributes": {}, 
       "id": "陈志清", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#19C95C", 
       "label": "赵晓岚", 
-      "attributes": {}, 
-      "y": -663, 
       "x": -4874, 
+      "y": -663, 
+      "attributes": {}, 
       "id": "赵晓岚", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "马艳云", 
-      "attributes": {}, 
-      "y": 1366, 
       "x": -2657, 
+      "y": 1366, 
+      "attributes": {}, 
       "id": "马艳云", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "张君秋", 
-      "attributes": {}, 
-      "y": -2443, 
       "x": -4079, 
+      "y": -2443, 
+      "attributes": {}, 
       "id": "张君秋", 
-      "size": 28
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#19C95C", 
       "label": "华慧麟", 
-      "attributes": {}, 
-      "y": 1607, 
       "x": 4668, 
+      "y": 1607, 
+      "attributes": {}, 
       "id": "华慧麟", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "黄德华", 
+      "x": -3298, 
+      "y": 1484, 
+      "attributes": {}, 
+      "id": "黄德华", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "王又宸", 
+      "x": -3450, 
+      "y": -873, 
+      "attributes": {}, 
+      "id": "王又宸", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "丁至云", 
+      "x": 4119, 
+      "y": -1121, 
+      "attributes": {}, 
+      "id": "丁至云", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
-      "label": "黄德华", 
-      "attributes": {}, 
-      "y": 1484, 
-      "x": -3298, 
-      "id": "黄德华", 
-      "size": 4
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "王又宸", 
-      "attributes": {}, 
-      "y": -873, 
-      "x": -3450, 
-      "id": "王又宸", 
-      "size": 9
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "丁至云", 
-      "attributes": {}, 
-      "y": -1121, 
-      "x": 4119, 
-      "id": "丁至云", 
-      "size": 3
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "刘荣升", 
-      "attributes": {}, 
-      "y": -446, 
       "x": -3185, 
+      "y": -446, 
+      "attributes": {}, 
       "id": "刘荣升", 
-      "size": 11
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "齐啸云", 
-      "attributes": {}, 
-      "y": -555, 
       "x": 4815, 
+      "y": -555, 
+      "attributes": {}, 
       "id": "齐啸云", 
       "size": 3
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "白玉薇", 
-      "attributes": {}, 
-      "y": -2399, 
       "x": -2028, 
+      "y": -2399, 
+      "attributes": {}, 
       "id": "白玉薇", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "吴彦衡", 
-      "attributes": {}, 
-      "y": 600, 
       "x": -1402, 
+      "y": 600, 
+      "attributes": {}, 
       "id": "吴彦衡", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "艾世菊", 
-      "attributes": {}, 
-      "y": 116, 
       "x": -2226, 
+      "y": 116, 
+      "attributes": {}, 
       "id": "艾世菊", 
-      "size": 15
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "于鸣奎", 
-      "attributes": {}, 
-      "y": 1374, 
       "x": -253, 
+      "y": 1374, 
+      "attributes": {}, 
       "id": "于鸣奎", 
       "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "冯子和", 
-      "attributes": {}, 
-      "y": -559, 
       "x": -2843, 
+      "y": -559, 
+      "attributes": {}, 
       "id": "冯子和", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "李炳淑", 
+      "x": 4020, 
+      "y": -1214, 
+      "attributes": {}, 
+      "id": "李炳淑", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
-      "label": "李炳淑", 
+      "color": "#138DF8", 
+      "label": "王少泉", 
+      "x": -1038, 
+      "y": 1763, 
       "attributes": {}, 
-      "y": -1214, 
-      "x": 4020, 
-      "id": "李炳淑", 
+      "id": "王少泉", 
       "size": 3
     }, 
     {
-      "color": "#0098D9", 
-      "label": "王少泉", 
-      "attributes": {}, 
-      "y": 1763, 
-      "x": -1038, 
-      "id": "王少泉", 
-      "size": 2
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "马富禄", 
-      "attributes": {}, 
-      "y": -1277, 
       "x": -121, 
+      "y": -1277, 
+      "attributes": {}, 
       "id": "马富禄", 
-      "size": 16
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "宋宝罗", 
-      "attributes": {}, 
-      "y": -1794, 
       "x": 3357, 
+      "y": -1794, 
+      "attributes": {}, 
       "id": "宋宝罗", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
       "label": "高盛麟", 
-      "attributes": {}, 
-      "y": -561, 
       "x": -1505, 
+      "y": -561, 
+      "attributes": {}, 
       "id": "高盛麟", 
-      "size": 38
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "王楞仙", 
-      "attributes": {}, 
-      "y": -505, 
       "x": 1415, 
+      "y": -505, 
+      "attributes": {}, 
       "id": "王楞仙", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E0E750", 
       "label": "袁国林", 
-      "attributes": {}, 
-      "y": -2027, 
       "x": 1205, 
+      "y": -2027, 
+      "attributes": {}, 
       "id": "袁国林", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E0E750", 
       "label": "郭元汾", 
-      "attributes": {}, 
-      "y": 64, 
       "x": -215, 
+      "y": 64, 
+      "attributes": {}, 
       "id": "郭元汾", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "尚长荣", 
-      "attributes": {}, 
-      "y": -2148, 
       "x": 2901, 
+      "y": -2148, 
+      "attributes": {}, 
       "id": "尚长荣", 
-      "size": 5
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "李紫贵", 
-      "attributes": {}, 
-      "y": 280, 
-      "x": -3736, 
-      "id": "李紫贵", 
-      "size": 4
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "厉慧斌", 
-      "attributes": {}, 
-      "y": -926, 
-      "x": 4553, 
-      "id": "厉慧斌", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "高永琦", 
+      "color": "#138DF8", 
+      "label": "李紫贵", 
+      "x": -3736, 
+      "y": 280, 
       "attributes": {}, 
-      "y": 1286, 
-      "x": 396, 
-      "id": "高永琦", 
+      "id": "李紫贵", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "厉慧斌", 
+      "x": 4553, 
+      "y": -926, 
+      "attributes": {}, 
+      "id": "厉慧斌", 
       "size": 3
     }, 
     {
-      "color": "#E6B600", 
-      "label": "谢景莘", 
+      "color": "#19C95C", 
+      "label": "高永琦", 
+      "x": 396, 
+      "y": 1286, 
       "attributes": {}, 
-      "y": 349, 
+      "id": "高永琦", 
+      "size": 9
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "谢景莘", 
       "x": -331, 
+      "y": 349, 
+      "attributes": {}, 
       "id": "谢景莘", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "金仲仁", 
-      "attributes": {}, 
-      "y": 1729, 
       "x": -1234, 
+      "y": 1729, 
+      "attributes": {}, 
       "id": "金仲仁", 
-      "size": 8
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "祁荣雯", 
-      "attributes": {}, 
-      "y": 425, 
-      "x": 229, 
-      "id": "祁荣雯", 
-      "size": 3
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "马长礼", 
-      "attributes": {}, 
-      "y": -2077, 
-      "x": 572, 
-      "id": "马长礼", 
-      "size": 2
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "杨盛春", 
-      "attributes": {}, 
-      "y": -1957, 
-      "x": 686, 
-      "id": "杨盛春", 
-      "size": 10
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "周瑞安", 
-      "attributes": {}, 
-      "y": -1483, 
-      "x": 1852, 
-      "id": "周瑞安", 
-      "size": 4
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "田宝琳", 
-      "attributes": {}, 
-      "y": -462, 
-      "x": 2442, 
-      "id": "田宝琳", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "童芷苓", 
+      "color": "#138DF8", 
+      "label": "祁荣雯", 
+      "x": 229, 
+      "y": 425, 
       "attributes": {}, 
-      "y": -1740, 
-      "x": 467, 
-      "id": "童芷苓", 
+      "id": "祁荣雯", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "马长礼", 
+      "x": 572, 
+      "y": -2077, 
+      "attributes": {}, 
+      "id": "马长礼", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "杨盛春", 
+      "x": 686, 
+      "y": -1957, 
+      "attributes": {}, 
+      "id": "杨盛春", 
+      "size": 9
+    }, 
+    {
+      "color": "#FE2EC8", 
+      "label": "周瑞安", 
+      "x": 1852, 
+      "y": -1483, 
+      "attributes": {}, 
+      "id": "周瑞安", 
+      "size": 26
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "田宝琳", 
+      "x": 2442, 
+      "y": -462, 
+      "attributes": {}, 
+      "id": "田宝琳", 
       "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
+      "label": "童芷苓", 
+      "x": 467, 
+      "y": -1740, 
+      "attributes": {}, 
+      "id": "童芷苓", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
       "label": "李荣威", 
-      "attributes": {}, 
-      "y": 1018, 
       "x": 1561, 
+      "y": 1018, 
+      "attributes": {}, 
       "id": "李荣威", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "赵培鑫", 
-      "attributes": {}, 
-      "y": 2421, 
       "x": 2334, 
+      "y": 2421, 
+      "attributes": {}, 
       "id": "赵培鑫", 
-      "size": 3
+      "size": 9
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8419c7", 
       "label": "罗荣庭", 
-      "attributes": {}, 
-      "y": -294, 
       "x": 316, 
+      "y": -294, 
+      "attributes": {}, 
       "id": "罗荣庭", 
-      "size": 5
+      "size": 20
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "史依弘", 
-      "attributes": {}, 
-      "y": -1769, 
       "x": -2694, 
+      "y": -1769, 
+      "attributes": {}, 
       "id": "史依弘", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "杨赤", 
-      "attributes": {}, 
-      "y": -1081, 
       "x": 684, 
+      "y": -1081, 
+      "attributes": {}, 
       "id": "杨赤", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#8E1AC8", 
       "label": "黄桂秋", 
-      "attributes": {}, 
-      "y": 2387, 
       "x": 663, 
+      "y": 2387, 
+      "attributes": {}, 
       "id": "黄桂秋", 
-      "size": 10
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "谢黛林", 
-      "attributes": {}, 
-      "y": 997, 
       "x": 4200, 
+      "y": 997, 
+      "attributes": {}, 
       "id": "谢黛林", 
-      "size": 4
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E0E750", 
       "label": "赵桐珊", 
-      "attributes": {}, 
-      "y": 1602, 
       "x": 4263, 
+      "y": 1602, 
+      "attributes": {}, 
       "id": "赵桐珊", 
-      "size": 18
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "周仲春", 
-      "attributes": {}, 
-      "y": 2374, 
       "x": 932, 
+      "y": 2374, 
+      "attributes": {}, 
       "id": "周仲春", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "石鸿林", 
-      "attributes": {}, 
-      "y": -298, 
       "x": 337, 
+      "y": -298, 
+      "attributes": {}, 
       "id": "石鸿林", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "黄元庆", 
-      "attributes": {}, 
-      "y": 2172, 
       "x": -132, 
+      "y": 2172, 
+      "attributes": {}, 
       "id": "黄元庆", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "许荫棠", 
-      "attributes": {}, 
-      "y": -1283, 
       "x": 2881, 
+      "y": -1283, 
+      "attributes": {}, 
       "id": "许荫棠", 
-      "size": 4
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#39F813", 
       "label": "高庆奎", 
-      "attributes": {}, 
-      "y": 1465, 
       "x": -2521, 
+      "y": 1465, 
+      "attributes": {}, 
       "id": "高庆奎", 
-      "size": 22
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "徐荣奎", 
-      "attributes": {}, 
-      "y": 1803, 
       "x": -1913, 
+      "y": 1803, 
+      "attributes": {}, 
       "id": "徐荣奎", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "程正泰", 
-      "attributes": {}, 
-      "y": 127, 
       "x": 875, 
+      "y": 127, 
+      "attributes": {}, 
       "id": "程正泰", 
-      "size": 4
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E62F57", 
       "label": "翟墨", 
-      "attributes": {}, 
-      "y": -665, 
       "x": -4543, 
+      "y": -665, 
+      "attributes": {}, 
       "id": "翟墨", 
+      "size": 2
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "黄宪光", 
+      "x": 1197, 
+      "y": 2452, 
+      "attributes": {}, 
+      "id": "黄宪光", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "黄宪光", 
-      "attributes": {}, 
-      "y": 2452, 
-      "x": 1197, 
-      "id": "黄宪光", 
-      "size": 7
-    }, 
-    {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "侯玉兰", 
-      "attributes": {}, 
-      "y": 2436, 
       "x": -490, 
+      "y": 2436, 
+      "attributes": {}, 
       "id": "侯玉兰", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "杨荣环", 
-      "attributes": {}, 
-      "y": -188, 
       "x": -108, 
+      "y": -188, 
+      "attributes": {}, 
       "id": "杨荣环", 
-      "size": 12
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "贯大元", 
-      "attributes": {}, 
-      "y": -334, 
       "x": -479, 
+      "y": -334, 
+      "attributes": {}, 
       "id": "贯大元", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "姚佩兰", 
-      "attributes": {}, 
-      "y": 1941, 
       "x": 3010, 
+      "y": 1941, 
+      "attributes": {}, 
       "id": "姚佩兰", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "管绍华", 
-      "attributes": {}, 
-      "y": 2432, 
       "x": 2090, 
+      "y": 2432, 
+      "attributes": {}, 
       "id": "管绍华", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "刘筱衡", 
-      "attributes": {}, 
-      "y": -1106, 
       "x": 4822, 
+      "y": -1106, 
+      "attributes": {}, 
       "id": "刘筱衡", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "秦慧芬", 
-      "attributes": {}, 
-      "y": -1654, 
       "x": -2887, 
+      "y": -1654, 
+      "attributes": {}, 
       "id": "秦慧芬", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "萧长华", 
-      "attributes": {}, 
-      "y": 81, 
       "x": -814, 
+      "y": 81, 
+      "attributes": {}, 
       "id": "萧长华", 
-      "size": 24
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "金少山", 
-      "attributes": {}, 
-      "y": 695, 
       "x": 2460, 
+      "y": 695, 
+      "attributes": {}, 
       "id": "金少山", 
-      "size": 36
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#39F813", 
       "label": "于世文", 
-      "attributes": {}, 
-      "y": -2334, 
       "x": 2555, 
+      "y": -2334, 
+      "attributes": {}, 
       "id": "于世文", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "孙菊仙", 
+      "x": -852, 
+      "y": 656, 
+      "attributes": {}, 
+      "id": "孙菊仙", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
-      "label": "孙菊仙", 
+      "color": "#9ADC49", 
+      "label": "李香匀", 
+      "x": -3879, 
+      "y": 378, 
       "attributes": {}, 
-      "y": 656, 
-      "x": -852, 
-      "id": "孙菊仙", 
-      "size": 5
+      "id": "李香匀", 
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "李香匀", 
+      "color": "#19C95C", 
+      "label": "云燕铭", 
+      "x": -1824, 
+      "y": -2368, 
       "attributes": {}, 
-      "y": 378, 
-      "x": -3879, 
-      "id": "李香匀", 
+      "id": "云燕铭", 
+      "size": 2
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "杨菊秋", 
+      "x": -3978, 
+      "y": 2266, 
+      "attributes": {}, 
+      "id": "杨菊秋", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "时荣章", 
+      "x": 3482, 
+      "y": -1049, 
+      "attributes": {}, 
+      "id": "时荣章", 
       "size": 4
     }, 
     {
-      "color": "#E6B600", 
-      "label": "云燕铭", 
-      "attributes": {}, 
-      "y": -2368, 
-      "x": -1824, 
-      "id": "云燕铭", 
-      "size": 21
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "杨菊秋", 
-      "attributes": {}, 
-      "y": 2266, 
-      "x": -3978, 
-      "id": "杨菊秋", 
-      "size": 3
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "时荣章", 
-      "attributes": {}, 
-      "y": -1049, 
-      "x": 3482, 
-      "id": "时荣章", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "王晓临", 
-      "attributes": {}, 
-      "y": 1148, 
       "x": -3812, 
+      "y": 1148, 
+      "attributes": {}, 
       "id": "王晓临", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E62F57", 
       "label": "陆喜才", 
-      "attributes": {}, 
-      "y": -823, 
       "x": -2475, 
+      "y": -823, 
+      "attributes": {}, 
       "id": "陆喜才", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "肖迪", 
-      "attributes": {}, 
-      "y": -1467, 
       "x": 3075, 
+      "y": -1467, 
+      "attributes": {}, 
       "id": "肖迪", 
-      "size": 3
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "李吉瑞", 
-      "attributes": {}, 
-      "y": -2008, 
-      "x": -4441, 
-      "id": "李吉瑞", 
-      "size": 2
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "李德彬", 
-      "attributes": {}, 
-      "y": -2347, 
-      "x": -1744, 
-      "id": "李德彬", 
-      "size": 10
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "王玉梅", 
-      "attributes": {}, 
-      "y": 578, 
-      "x": 3293, 
-      "id": "王玉梅", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "鲁肃", 
+      "color": "#1919c7", 
+      "label": "李吉瑞", 
+      "x": -4441, 
+      "y": -2008, 
       "attributes": {}, 
-      "y": -2073, 
-      "x": 2033, 
-      "id": "鲁肃", 
-      "size": 5
+      "id": "李吉瑞", 
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "高盛虹", 
+      "color": "#8E1AC8", 
+      "label": "李德彬", 
+      "x": -1744, 
+      "y": -2347, 
       "attributes": {}, 
-      "y": -2000, 
-      "x": 466, 
-      "id": "高盛虹", 
+      "id": "李德彬", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "王玉梅", 
+      "x": 3293, 
+      "y": 578, 
+      "attributes": {}, 
+      "id": "王玉梅", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
-      "label": "王佩瑜", 
+      "color": "#19C95C", 
+      "label": "鲁肃", 
+      "x": 2033, 
+      "y": -2073, 
       "attributes": {}, 
-      "y": -836, 
+      "id": "鲁肃", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "高盛虹", 
+      "x": 466, 
+      "y": -2000, 
+      "attributes": {}, 
+      "id": "高盛虹", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "王佩瑜", 
       "x": 1759, 
+      "y": -836, 
+      "attributes": {}, 
       "id": "王佩瑜", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "王晶华", 
-      "attributes": {}, 
-      "y": -2114, 
       "x": 3109, 
+      "y": -2114, 
+      "attributes": {}, 
       "id": "王晶华", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "陆素娟", 
-      "attributes": {}, 
-      "y": 2090, 
       "x": 2742, 
+      "y": 2090, 
+      "attributes": {}, 
       "id": "陆素娟", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "戴绮霞", 
-      "attributes": {}, 
-      "y": 1379, 
       "x": -3528, 
+      "y": 1379, 
+      "attributes": {}, 
       "id": "戴绮霞", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "尚和玉", 
-      "attributes": {}, 
-      "y": -1950, 
       "x": 793, 
+      "y": -1950, 
+      "attributes": {}, 
       "id": "尚和玉", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#1919c7", 
       "label": "景荣庆", 
-      "attributes": {}, 
-      "y": 440, 
       "x": -3530, 
+      "y": 440, 
+      "attributes": {}, 
       "id": "景荣庆", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "关肃霜", 
-      "attributes": {}, 
-      "y": -1033, 
       "x": 3719, 
+      "y": -1033, 
+      "attributes": {}, 
       "id": "关肃霜", 
-      "size": 2
+      "size": 4
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "康喜寿", 
-      "attributes": {}, 
-      "y": -1525, 
       "x": -4289, 
+      "y": -1525, 
+      "attributes": {}, 
       "id": "康喜寿", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "武正豪", 
-      "attributes": {}, 
-      "y": 2309, 
       "x": 1302, 
+      "y": 2309, 
+      "attributes": {}, 
       "id": "武正豪", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "梁再胜", 
-      "attributes": {}, 
-      "y": 2046, 
       "x": -1504, 
+      "y": 2046, 
+      "attributes": {}, 
       "id": "梁再胜", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "刁丽", 
-      "attributes": {}, 
-      "y": 1246, 
       "x": -3126, 
-      "id": "刁丽", 
-      "size": 5
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "陈淑芳", 
+      "y": 1246, 
       "attributes": {}, 
-      "y": -1526, 
-      "x": 1079, 
-      "id": "陈淑芳", 
+      "id": "刁丽", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "文亮臣", 
+      "color": "#19C95C", 
+      "label": "陈淑芳", 
+      "x": 1079, 
+      "y": -1526, 
       "attributes": {}, 
-      "y": -1612, 
+      "id": "陈淑芳", 
+      "size": 2
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "文亮臣", 
       "x": 1229, 
+      "y": -1612, 
+      "attributes": {}, 
       "id": "文亮臣", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#19C95C", 
       "label": "厉慧敏", 
-      "attributes": {}, 
-      "y": -1860, 
       "x": 1232, 
+      "y": -1860, 
+      "attributes": {}, 
       "id": "厉慧敏", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "宋遇春", 
+      "x": -1709, 
+      "y": -775, 
+      "attributes": {}, 
+      "id": "宋遇春", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李崇善", 
+      "x": 3475, 
+      "y": -1695, 
+      "attributes": {}, 
+      "id": "李崇善", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "沈小梅", 
+      "x": -2151, 
+      "y": -212, 
+      "attributes": {}, 
+      "id": "沈小梅", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "宋遇春", 
-      "attributes": {}, 
-      "y": -775, 
-      "x": -1709, 
-      "id": "宋遇春", 
-      "size": 6
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "李崇善", 
-      "attributes": {}, 
-      "y": -1695, 
-      "x": 3475, 
-      "id": "李崇善", 
-      "size": 8
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "沈小梅", 
-      "attributes": {}, 
-      "y": -212, 
-      "x": -2151, 
-      "id": "沈小梅", 
-      "size": 1
-    }, 
-    {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "裘桂仙", 
-      "attributes": {}, 
-      "y": 352, 
       "x": -3952, 
+      "y": 352, 
+      "attributes": {}, 
       "id": "裘桂仙", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "苏富恩", 
-      "attributes": {}, 
-      "y": 1848, 
       "x": 736, 
+      "y": 1848, 
+      "attributes": {}, 
       "id": "苏富恩", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "马世啸", 
-      "attributes": {}, 
-      "y": 1796, 
       "x": 3998, 
+      "y": 1796, 
+      "attributes": {}, 
       "id": "马世啸", 
-      "size": 3
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "王子江", 
-      "attributes": {}, 
-      "y": 1832, 
       "x": 3328, 
+      "y": 1832, 
+      "attributes": {}, 
       "id": "王子江", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#F88A13", 
       "label": "张二奎", 
-      "attributes": {}, 
-      "y": 630, 
       "x": 4421, 
+      "y": 630, 
+      "attributes": {}, 
       "id": "张二奎", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "蒋慕萍", 
-      "attributes": {}, 
-      "y": 2206, 
       "x": 2793, 
+      "y": 2206, 
+      "attributes": {}, 
       "id": "蒋慕萍", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "冯冠博", 
-      "attributes": {}, 
-      "y": -876, 
       "x": -2271, 
+      "y": -876, 
+      "attributes": {}, 
       "id": "冯冠博", 
+      "size": 2
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "于连泉", 
+      "x": 1657, 
+      "y": 182, 
+      "attributes": {}, 
+      "id": "于连泉", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "于连泉", 
-      "attributes": {}, 
-      "y": 182, 
-      "x": 1657, 
-      "id": "于连泉", 
-      "size": 7
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "李少春", 
-      "attributes": {}, 
-      "y": 215, 
       "x": 4494, 
+      "y": 215, 
+      "attributes": {}, 
       "id": "李少春", 
-      "size": 28
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "郝寿臣", 
-      "attributes": {}, 
-      "y": 1993, 
       "x": 1071, 
+      "y": 1993, 
+      "attributes": {}, 
       "id": "郝寿臣", 
-      "size": 15
+      "size": 3
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "王强华", 
-      "attributes": {}, 
-      "y": -2209, 
       "x": 986, 
+      "y": -2209, 
+      "attributes": {}, 
       "id": "王强华", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "章遏云", 
-      "attributes": {}, 
-      "y": 902, 
       "x": 3521, 
+      "y": 902, 
+      "attributes": {}, 
       "id": "章遏云", 
-      "size": 13
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "李甫春", 
-      "attributes": {}, 
-      "y": 1571, 
       "x": -3793, 
+      "y": 1571, 
+      "attributes": {}, 
       "id": "李甫春", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#9ADC49", 
       "label": "李仲林", 
-      "attributes": {}, 
-      "y": -593, 
       "x": 2711, 
+      "y": -593, 
+      "attributes": {}, 
       "id": "李仲林", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#1919c7", 
       "label": "江世玉", 
-      "attributes": {}, 
-      "y": -1922, 
       "x": 2815, 
+      "y": -1922, 
+      "attributes": {}, 
       "id": "江世玉", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "郑盛芗", 
-      "attributes": {}, 
-      "y": -978, 
       "x": 3440, 
+      "y": -978, 
+      "attributes": {}, 
       "id": "郑盛芗", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "关静兰", 
-      "attributes": {}, 
-      "y": -1704, 
       "x": 2917, 
-      "id": "关静兰", 
-      "size": 6
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "于金骅", 
+      "y": -1704, 
       "attributes": {}, 
-      "y": -476, 
-      "x": -1908, 
-      "id": "于金骅", 
+      "id": "关静兰", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "徐世光", 
+      "color": "#138DF8", 
+      "label": "于金骅", 
+      "x": -1908, 
+      "y": -476, 
       "attributes": {}, 
-      "y": -388, 
-      "x": -2296, 
-      "id": "徐世光", 
-      "size": 4
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "宋长荣", 
-      "attributes": {}, 
-      "y": 2481, 
-      "x": -3434, 
-      "id": "宋长荣", 
+      "id": "于金骅", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
+      "label": "徐世光", 
+      "x": -2296, 
+      "y": -388, 
+      "attributes": {}, 
+      "id": "徐世光", 
+      "size": 2
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "宋长荣", 
+      "x": -3434, 
+      "y": 2481, 
+      "attributes": {}, 
+      "id": "宋长荣", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
       "label": "张静", 
-      "attributes": {}, 
-      "y": -2323, 
       "x": 763, 
+      "y": -2323, 
+      "attributes": {}, 
       "id": "张静", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "段丽君", 
-      "attributes": {}, 
-      "y": 1377, 
       "x": -1033, 
+      "y": 1377, 
+      "attributes": {}, 
       "id": "段丽君", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "殷宝忠", 
-      "attributes": {}, 
-      "y": -1960, 
       "x": -3293, 
+      "y": -1960, 
+      "attributes": {}, 
       "id": "殷宝忠", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "李寿峰", 
-      "attributes": {}, 
-      "y": -2443, 
       "x": -1739, 
+      "y": -2443, 
+      "attributes": {}, 
       "id": "李寿峰", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "杨博森", 
-      "attributes": {}, 
-      "y": -1664, 
       "x": 4914, 
+      "y": -1664, 
+      "attributes": {}, 
       "id": "杨博森", 
-      "size": 3
+      "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "孙国良", 
-      "attributes": {}, 
-      "y": -1473, 
       "x": -1708, 
+      "y": -1473, 
+      "attributes": {}, 
       "id": "孙国良", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "马少良", 
-      "attributes": {}, 
-      "y": -281, 
       "x": 985, 
+      "y": -281, 
+      "attributes": {}, 
       "id": "马少良", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "赵喜贞", 
-      "attributes": {}, 
-      "y": 1450, 
       "x": -862, 
+      "y": 1450, 
+      "attributes": {}, 
       "id": "赵喜贞", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "赵松樵", 
-      "attributes": {}, 
-      "y": 361, 
       "x": 2423, 
+      "y": 361, 
+      "attributes": {}, 
       "id": "赵松樵", 
-      "size": 6
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "马益长", 
-      "attributes": {}, 
-      "y": -1191, 
       "x": 1178, 
+      "y": -1191, 
+      "attributes": {}, 
       "id": "马益长", 
-      "size": 6
+      "size": 5
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#9ADC49", 
       "label": "李桂春", 
-      "attributes": {}, 
-      "y": 2479, 
       "x": 1590, 
+      "y": 2479, 
+      "attributes": {}, 
       "id": "李桂春", 
-      "size": 2
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "陈富瑞", 
-      "attributes": {}, 
-      "y": -1048, 
-      "x": -2859, 
-      "id": "陈富瑞", 
-      "size": 9
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "张曼玲", 
-      "attributes": {}, 
-      "y": -2447, 
-      "x": 2503, 
-      "id": "张曼玲", 
-      "size": 2
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "张正芬", 
-      "attributes": {}, 
-      "y": -2344, 
-      "x": -1554, 
-      "id": "张正芬", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "张春彦", 
+      "color": "#F88A13", 
+      "label": "陈富瑞", 
+      "x": -2859, 
+      "y": -1048, 
       "attributes": {}, 
-      "y": 2323, 
+      "id": "陈富瑞", 
+      "size": 10
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "张曼玲", 
+      "x": 2503, 
+      "y": -2447, 
+      "attributes": {}, 
+      "id": "张曼玲", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "张正芬", 
+      "x": -1554, 
+      "y": -2344, 
+      "attributes": {}, 
+      "id": "张正芬", 
+      "size": 2
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "张春彦", 
       "x": 527, 
+      "y": 2323, 
+      "attributes": {}, 
       "id": "张春彦", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#9ADC49", 
       "label": "赵国华", 
-      "attributes": {}, 
-      "y": -598, 
       "x": 3457, 
+      "y": -598, 
+      "attributes": {}, 
       "id": "赵国华", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#F88A13", 
       "label": "俞振庭", 
-      "attributes": {}, 
-      "y": 1923, 
       "x": 565, 
+      "y": 1923, 
+      "attributes": {}, 
       "id": "俞振庭", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#138DF8", 
       "label": "高富远", 
-      "attributes": {}, 
-      "y": -1551, 
       "x": 3117, 
+      "y": -1551, 
+      "attributes": {}, 
       "id": "高富远", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "班世超", 
-      "attributes": {}, 
-      "y": 2230, 
       "x": -3740, 
+      "y": 2230, 
+      "attributes": {}, 
       "id": "班世超", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "张蓉华", 
-      "attributes": {}, 
-      "y": 1182, 
       "x": 4633, 
+      "y": 1182, 
+      "attributes": {}, 
       "id": "张蓉华", 
-      "size": 9
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "方松龄", 
-      "attributes": {}, 
-      "y": -267, 
       "x": -4876, 
+      "y": -267, 
+      "attributes": {}, 
       "id": "方松龄", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E0E750", 
       "label": "张正芳", 
-      "attributes": {}, 
-      "y": 913, 
       "x": 476, 
+      "y": 913, 
+      "attributes": {}, 
       "id": "张正芳", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "白元鸣", 
-      "attributes": {}, 
-      "y": 616, 
       "x": -594, 
+      "y": 616, 
+      "attributes": {}, 
       "id": "白元鸣", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E0E750", 
       "label": "姜培培", 
-      "attributes": {}, 
-      "y": 390, 
       "x": 3481, 
+      "y": 390, 
+      "attributes": {}, 
       "id": "姜培培", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "李世英", 
-      "attributes": {}, 
-      "y": 1034, 
       "x": -969, 
+      "y": 1034, 
+      "attributes": {}, 
       "id": "李世英", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "萧润年", 
-      "attributes": {}, 
-      "y": 2313, 
       "x": -1034, 
+      "y": 2313, 
+      "attributes": {}, 
       "id": "萧润年", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#8E1AC8", 
       "label": "李吉来", 
-      "attributes": {}, 
-      "y": -254, 
       "x": 2475, 
+      "y": -254, 
+      "attributes": {}, 
       "id": "李吉来", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E62F57", 
       "label": "费贺楠", 
-      "attributes": {}, 
-      "y": -2472, 
       "x": 1573, 
+      "y": -2472, 
+      "attributes": {}, 
       "id": "费贺楠", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "叶盛兰", 
-      "attributes": {}, 
-      "y": 935, 
       "x": -1699, 
+      "y": 935, 
+      "attributes": {}, 
       "id": "叶盛兰", 
-      "size": 33
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "王和霖", 
-      "attributes": {}, 
-      "y": 1390, 
       "x": 2618, 
+      "y": 1390, 
+      "attributes": {}, 
       "id": "王和霖", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "宋昌林", 
-      "attributes": {}, 
-      "y": 1974, 
       "x": -4836, 
+      "y": 1974, 
+      "attributes": {}, 
       "id": "宋昌林", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#19C95C", 
       "label": "唐韵笙", 
-      "attributes": {}, 
-      "y": -2087, 
       "x": -2870, 
+      "y": -2087, 
+      "attributes": {}, 
       "id": "唐韵笙", 
-      "size": 18
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "李世章", 
-      "attributes": {}, 
-      "y": 1944, 
       "x": -2062, 
+      "y": 1944, 
+      "attributes": {}, 
       "id": "李世章", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#39F813", 
       "label": "杨少春", 
-      "attributes": {}, 
-      "y": -112, 
       "x": -4874, 
+      "y": -112, 
+      "attributes": {}, 
       "id": "杨少春", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "尚明珠", 
-      "attributes": {}, 
-      "y": -544, 
       "x": 872, 
+      "y": -544, 
+      "attributes": {}, 
       "id": "尚明珠", 
+      "size": 3
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "高少亭", 
+      "x": 4662, 
+      "y": 1680, 
+      "attributes": {}, 
+      "id": "高少亭", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "高少亭", 
-      "attributes": {}, 
-      "y": 1680, 
-      "x": 4662, 
-      "id": "高少亭", 
-      "size": 2
-    }, 
-    {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "夏月珊", 
-      "attributes": {}, 
-      "y": 311, 
       "x": -3288, 
+      "y": 311, 
+      "attributes": {}, 
       "id": "夏月珊", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "章晓申", 
-      "attributes": {}, 
-      "y": -1998, 
       "x": -148, 
+      "y": -1998, 
+      "attributes": {}, 
       "id": "章晓申", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "孙瑶芳", 
-      "attributes": {}, 
-      "y": 1450, 
       "x": -494, 
+      "y": 1450, 
+      "attributes": {}, 
       "id": "孙瑶芳", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "苗胜春", 
-      "attributes": {}, 
-      "y": -1850, 
       "x": 3053, 
+      "y": -1850, 
+      "attributes": {}, 
       "id": "苗胜春", 
-      "size": 9
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "郭金光", 
-      "attributes": {}, 
-      "y": 1402, 
       "x": 1052, 
+      "y": 1402, 
+      "attributes": {}, 
       "id": "郭金光", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "何澍", 
-      "attributes": {}, 
-      "y": -2143, 
       "x": -3016, 
+      "y": -2143, 
+      "attributes": {}, 
       "id": "何澍", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8419c7", 
       "label": "张学津", 
-      "attributes": {}, 
-      "y": 496, 
       "x": 622, 
+      "y": 496, 
+      "attributes": {}, 
       "id": "张学津", 
-      "size": 4
+      "size": 45
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "王荣山", 
-      "attributes": {}, 
-      "y": -2357, 
       "x": 194, 
+      "y": -2357, 
+      "attributes": {}, 
       "id": "王荣山", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "康万生", 
-      "attributes": {}, 
-      "y": -1050, 
       "x": -932, 
+      "y": -1050, 
+      "attributes": {}, 
       "id": "康万生", 
-      "size": 2
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "高维廉", 
-      "attributes": {}, 
-      "y": 2070, 
-      "x": -1325, 
-      "id": "高维廉", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "杨宝森", 
-      "attributes": {}, 
-      "y": -1881, 
-      "x": -1447, 
-      "id": "杨宝森", 
-      "size": 35
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "李世芳", 
-      "attributes": {}, 
-      "y": 1779, 
-      "x": -3977, 
-      "id": "李世芳", 
-      "size": 12
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "赵世璞", 
-      "attributes": {}, 
-      "y": -1045, 
-      "x": 4158, 
-      "id": "赵世璞", 
-      "size": 11
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "李金鸿", 
-      "attributes": {}, 
-      "y": -361, 
-      "x": -3809, 
-      "id": "李金鸿", 
       "size": 7
     }, 
     {
-      "color": "#005EAA", 
-      "label": "侯永奎", 
+      "color": "#138DF8", 
+      "label": "高维廉", 
+      "x": -1325, 
+      "y": 2070, 
       "attributes": {}, 
-      "y": 2019, 
-      "x": -3985, 
-      "id": "侯永奎", 
+      "id": "高维廉", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "夏慧华", 
+      "color": "#1919c7", 
+      "label": "杨宝森", 
+      "x": -1447, 
+      "y": -1881, 
       "attributes": {}, 
-      "y": -817, 
+      "id": "杨宝森", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李世芳", 
+      "x": -3977, 
+      "y": 1779, 
+      "attributes": {}, 
+      "id": "李世芳", 
+      "size": 2
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "赵世璞", 
+      "x": 4158, 
+      "y": -1045, 
+      "attributes": {}, 
+      "id": "赵世璞", 
+      "size": 2
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李金鸿", 
+      "x": -3809, 
+      "y": -361, 
+      "attributes": {}, 
+      "id": "李金鸿", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "侯永奎", 
+      "x": -3985, 
+      "y": 2019, 
+      "attributes": {}, 
+      "id": "侯永奎", 
+      "size": 2
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "夏慧华", 
       "x": -4678, 
+      "y": -817, 
+      "attributes": {}, 
       "id": "夏慧华", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "王荣增", 
-      "attributes": {}, 
-      "y": -2396, 
       "x": 196, 
+      "y": -2396, 
+      "attributes": {}, 
       "id": "王荣增", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "王茵", 
-      "attributes": {}, 
-      "y": 779, 
       "x": 4023, 
+      "y": 779, 
+      "attributes": {}, 
       "id": "王茵", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "慈瑞泉", 
-      "attributes": {}, 
-      "y": 1957, 
       "x": -17, 
+      "y": 1957, 
+      "attributes": {}, 
       "id": "慈瑞泉", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#F88A13", 
       "label": "罗寿山", 
-      "attributes": {}, 
-      "y": 472, 
       "x": 4853, 
+      "y": 472, 
+      "attributes": {}, 
       "id": "罗寿山", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "赵如泉", 
-      "attributes": {}, 
-      "y": -389, 
       "x": 1891, 
+      "y": -389, 
+      "attributes": {}, 
       "id": "赵如泉", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "李国静", 
-      "attributes": {}, 
-      "y": -2198, 
       "x": -822, 
+      "y": -2198, 
+      "attributes": {}, 
       "id": "李国静", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E62F57", 
       "label": "江世升", 
-      "attributes": {}, 
-      "y": 663, 
       "x": -2159, 
+      "y": 663, 
+      "attributes": {}, 
       "id": "江世升", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "盖叫天", 
+      "x": -4838, 
+      "y": 1566, 
+      "attributes": {}, 
+      "id": "盖叫天", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "耿喜斌", 
+      "x": -4966, 
+      "y": 1864, 
+      "attributes": {}, 
+      "id": "耿喜斌", 
       "size": 2
     }, 
     {
-      "color": "#005EAA", 
-      "label": "盖叫天", 
-      "attributes": {}, 
-      "y": 1566, 
-      "x": -4838, 
-      "id": "盖叫天", 
-      "size": 7
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "耿喜斌", 
-      "attributes": {}, 
-      "y": 1864, 
-      "x": -4966, 
-      "id": "耿喜斌", 
-      "size": 6
-    }, 
-    {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "韩慧梅", 
-      "attributes": {}, 
-      "y": -2133, 
       "x": 2332, 
+      "y": -2133, 
+      "attributes": {}, 
       "id": "韩慧梅", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#c71969", 
       "label": "董春柏", 
-      "attributes": {}, 
-      "y": -587, 
       "x": 4224, 
+      "y": -587, 
+      "attributes": {}, 
       "id": "董春柏", 
+      "size": 14
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "马增寿", 
+      "x": 1696, 
+      "y": 2198, 
+      "attributes": {}, 
+      "id": "马增寿", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "马增寿", 
-      "attributes": {}, 
-      "y": 2198, 
-      "x": 1696, 
-      "id": "马增寿", 
-      "size": 3
-    }, 
-    {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "李玉芙", 
-      "attributes": {}, 
-      "y": -1851, 
       "x": 1591, 
+      "y": -1851, 
+      "attributes": {}, 
       "id": "李玉芙", 
       "size": 4
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "郭正发", 
-      "attributes": {}, 
-      "y": 1120, 
       "x": -1822, 
+      "y": 1120, 
+      "attributes": {}, 
       "id": "郭正发", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#19C95C", 
       "label": "李玉芝", 
-      "attributes": {}, 
-      "y": 328, 
       "x": 4027, 
+      "y": 328, 
+      "attributes": {}, 
       "id": "李玉芝", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "杨菊芬", 
-      "attributes": {}, 
-      "y": -1238, 
       "x": -4842, 
+      "y": -1238, 
+      "attributes": {}, 
       "id": "杨菊芬", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#c71969", 
       "label": "吴素秋", 
-      "attributes": {}, 
-      "y": -969, 
       "x": 3293, 
+      "y": -969, 
+      "attributes": {}, 
       "id": "吴素秋", 
-      "size": 13
+      "size": 11
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "李金声", 
-      "attributes": {}, 
-      "y": -2075, 
       "x": -3936, 
+      "y": -2075, 
+      "attributes": {}, 
       "id": "李金声", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#1919c7", 
       "label": "刘奎官", 
-      "attributes": {}, 
-      "y": -1935, 
       "x": 1390, 
+      "y": -1935, 
+      "attributes": {}, 
       "id": "刘奎官", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "时小福", 
-      "attributes": {}, 
-      "y": -1542, 
       "x": 330, 
+      "y": -1542, 
+      "attributes": {}, 
       "id": "时小福", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#9ADC49", 
       "label": "芙蓉草", 
-      "attributes": {}, 
-      "y": 874, 
       "x": -262, 
+      "y": 874, 
+      "attributes": {}, 
       "id": "芙蓉草", 
-      "size": 15
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "张鸣宇", 
-      "attributes": {}, 
-      "y": 78, 
       "x": -3256, 
+      "y": 78, 
+      "attributes": {}, 
       "id": "张鸣宇", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "贺玉钦", 
-      "attributes": {}, 
-      "y": 735, 
       "x": 2838, 
+      "y": 735, 
+      "attributes": {}, 
       "id": "贺玉钦", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "李金棠", 
-      "attributes": {}, 
-      "y": 1567, 
       "x": 1741, 
+      "y": 1567, 
+      "attributes": {}, 
       "id": "李金棠", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "黄玉麟", 
-      "attributes": {}, 
-      "y": 2194, 
       "x": -3300, 
+      "y": 2194, 
+      "attributes": {}, 
       "id": "黄玉麟", 
-      "size": 1
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "李世荣", 
-      "attributes": {}, 
-      "y": 1398, 
-      "x": 1833, 
-      "id": "李世荣", 
-      "size": 19
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "李多奎", 
-      "attributes": {}, 
-      "y": -585, 
-      "x": 4298, 
-      "id": "李多奎", 
-      "size": 12
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "刘连荣", 
-      "attributes": {}, 
-      "y": 472, 
-      "x": -979, 
-      "id": "刘连荣", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
+      "label": "李世荣", 
+      "x": 1833, 
+      "y": 1398, 
+      "attributes": {}, 
+      "id": "李世荣", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "李多奎", 
+      "x": 4298, 
+      "y": -585, 
+      "attributes": {}, 
+      "id": "李多奎", 
+      "size": 2
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "刘连荣", 
+      "x": -979, 
+      "y": 472, 
+      "attributes": {}, 
+      "id": "刘连荣", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
       "label": "周仲博", 
-      "attributes": {}, 
-      "y": 1626, 
       "x": -2053, 
+      "y": 1626, 
+      "attributes": {}, 
       "id": "周仲博", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#39F813", 
       "label": "王砚如", 
-      "attributes": {}, 
-      "y": 444, 
       "x": -2582, 
+      "y": 444, 
+      "attributes": {}, 
       "id": "王砚如", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "翟西园", 
-      "attributes": {}, 
-      "y": -2482, 
       "x": 3710, 
+      "y": -2482, 
+      "attributes": {}, 
       "id": "翟西园", 
-      "size": 3
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "那正鑫", 
-      "attributes": {}, 
-      "y": 37, 
       "x": -488, 
+      "y": 37, 
+      "attributes": {}, 
       "id": "那正鑫", 
-      "size": 9
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "李盛荫", 
-      "attributes": {}, 
-      "y": 1995, 
       "x": 2825, 
+      "y": 1995, 
+      "attributes": {}, 
       "id": "李盛荫", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#19C95C", 
       "label": "朱云鹏", 
-      "attributes": {}, 
-      "y": -1807, 
       "x": 1994, 
-      "id": "朱云鹏", 
-      "size": 6
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "余小山", 
+      "y": -1807, 
       "attributes": {}, 
-      "y": 1205, 
-      "x": 457, 
-      "id": "余小山", 
+      "id": "朱云鹏", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "赵欢", 
+      "color": "#19C95C", 
+      "label": "余小山", 
+      "x": 457, 
+      "y": 1205, 
       "attributes": {}, 
-      "y": 1401, 
+      "id": "余小山", 
+      "size": 3
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "赵欢", 
       "x": -1006, 
+      "y": 1401, 
+      "attributes": {}, 
       "id": "赵欢", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#1919c7", 
       "label": "何桂山", 
-      "attributes": {}, 
-      "y": -1493, 
       "x": 3134, 
+      "y": -1493, 
+      "attributes": {}, 
       "id": "何桂山", 
+      "size": 2
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "孙毓堃", 
+      "x": 2286, 
+      "y": -2147, 
+      "attributes": {}, 
+      "id": "孙毓堃", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
-      "label": "孙毓堃", 
-      "attributes": {}, 
-      "y": -2147, 
-      "x": 2286, 
-      "id": "孙毓堃", 
-      "size": 14
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "马连昆", 
-      "attributes": {}, 
-      "y": 128, 
       "x": -1185, 
+      "y": 128, 
+      "attributes": {}, 
       "id": "马连昆", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "奚啸伯", 
-      "attributes": {}, 
-      "y": -1084, 
       "x": 4538, 
+      "y": -1084, 
+      "attributes": {}, 
       "id": "奚啸伯", 
-      "size": 34
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "方荣翔", 
-      "attributes": {}, 
-      "y": 2223, 
       "x": 3016, 
+      "y": 2223, 
+      "attributes": {}, 
       "id": "方荣翔", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "范富喜", 
-      "attributes": {}, 
-      "y": -1248, 
       "x": 4638, 
+      "y": -1248, 
+      "attributes": {}, 
       "id": "范富喜", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "孙钧卿", 
-      "attributes": {}, 
-      "y": -2204, 
       "x": 3873, 
+      "y": -2204, 
+      "attributes": {}, 
       "id": "孙钧卿", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#19C95C", 
       "label": "夏韵龙", 
-      "attributes": {}, 
-      "y": -1691, 
       "x": 1958, 
+      "y": -1691, 
+      "attributes": {}, 
       "id": "夏韵龙", 
-      "size": 8
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "李玉茹", 
-      "attributes": {}, 
-      "y": 2070, 
-      "x": -4490, 
-      "id": "李玉茹", 
-      "size": 36
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "郑法祥", 
-      "attributes": {}, 
-      "y": -2339, 
-      "x": 532, 
-      "id": "郑法祥", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "李韵秋", 
+      "color": "#19C95C", 
+      "label": "李玉茹", 
+      "x": -4490, 
+      "y": 2070, 
       "attributes": {}, 
-      "y": -1452, 
+      "id": "李玉茹", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "郑法祥", 
+      "x": 532, 
+      "y": -2339, 
+      "attributes": {}, 
+      "id": "郑法祥", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "李韵秋", 
       "x": 4568, 
+      "y": -1452, 
+      "attributes": {}, 
       "id": "李韵秋", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
       "label": "汪桂芬", 
-      "attributes": {}, 
-      "y": -1777, 
       "x": -2064, 
+      "y": -1777, 
+      "attributes": {}, 
       "id": "汪桂芬", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "杨乃彭", 
-      "attributes": {}, 
-      "y": -844, 
       "x": 606, 
+      "y": -844, 
+      "attributes": {}, 
       "id": "杨乃彭", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "杨鸿康", 
-      "attributes": {}, 
-      "y": -1078, 
       "x": 1050, 
+      "y": -1078, 
+      "attributes": {}, 
       "id": "杨鸿康", 
-      "size": 4
+      "size": 3
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "沈华轩", 
-      "attributes": {}, 
-      "y": 39, 
       "x": 4666, 
-      "id": "沈华轩", 
-      "size": 1
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "王幼卿", 
+      "y": 39, 
       "attributes": {}, 
-      "y": -366, 
-      "x": 2996, 
-      "id": "王幼卿", 
+      "id": "沈华轩", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "王士英", 
+      "color": "#39F813", 
+      "label": "王幼卿", 
+      "x": 2996, 
+      "y": -366, 
       "attributes": {}, 
-      "y": 2231, 
+      "id": "王幼卿", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "王士英", 
       "x": 2412, 
+      "y": 2231, 
+      "attributes": {}, 
       "id": "王士英", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "贯盛习", 
-      "attributes": {}, 
-      "y": 2146, 
       "x": 2199, 
+      "y": 2146, 
+      "attributes": {}, 
       "id": "贯盛习", 
-      "size": 10
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "龚云甫", 
-      "attributes": {}, 
-      "y": -1790, 
       "x": -228, 
+      "y": -1790, 
+      "attributes": {}, 
       "id": "龚云甫", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "于魁智", 
-      "attributes": {}, 
-      "y": -2430, 
       "x": 4081, 
+      "y": -2430, 
+      "attributes": {}, 
       "id": "于魁智", 
-      "size": 16
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#c71919", 
       "label": "言少朋", 
-      "attributes": {}, 
-      "y": 570, 
       "x": 3490, 
+      "y": 570, 
+      "attributes": {}, 
       "id": "言少朋", 
-      "size": 3
+      "size": 15
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "靳万春", 
-      "attributes": {}, 
-      "y": -460, 
       "x": 942, 
+      "y": -460, 
+      "attributes": {}, 
       "id": "靳万春", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "殷元和", 
-      "attributes": {}, 
-      "y": -2300, 
       "x": 3837, 
+      "y": -2300, 
+      "attributes": {}, 
       "id": "殷元和", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "李宝春", 
-      "attributes": {}, 
-      "y": -44, 
       "x": 4433, 
+      "y": -44, 
+      "attributes": {}, 
       "id": "李宝春", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "贾凤麟", 
-      "attributes": {}, 
-      "y": -692, 
       "x": -1544, 
+      "y": -692, 
+      "attributes": {}, 
       "id": "贾凤麟", 
-      "size": 3
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "朱斌仙", 
-      "attributes": {}, 
-      "y": 2101, 
-      "x": 2555, 
-      "id": "朱斌仙", 
-      "size": 16
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "张德俊", 
-      "attributes": {}, 
-      "y": -125, 
-      "x": 1036, 
-      "id": "张德俊", 
-      "size": 10
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "李寿山", 
-      "attributes": {}, 
-      "y": -2180, 
-      "x": 2942, 
-      "id": "李寿山", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
+      "label": "朱斌仙", 
+      "x": 2555, 
+      "y": 2101, 
+      "attributes": {}, 
+      "id": "朱斌仙", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "张德俊", 
+      "x": 1036, 
+      "y": -125, 
+      "attributes": {}, 
+      "id": "张德俊", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "李寿山", 
+      "x": 2942, 
+      "y": -2180, 
+      "attributes": {}, 
+      "id": "李寿山", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
       "label": "张永禄", 
-      "attributes": {}, 
-      "y": 2492, 
       "x": -320, 
+      "y": 2492, 
+      "attributes": {}, 
       "id": "张永禄", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
       "label": "关丽卿", 
-      "attributes": {}, 
-      "y": -312, 
       "x": -701, 
+      "y": -312, 
+      "attributes": {}, 
       "id": "关丽卿", 
-      "size": 10
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "毕高修", 
-      "attributes": {}, 
-      "y": -1015, 
       "x": 217, 
+      "y": -1015, 
+      "attributes": {}, 
       "id": "毕高修", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "赵慧秋", 
-      "attributes": {}, 
-      "y": -788, 
       "x": -1222, 
+      "y": -788, 
+      "attributes": {}, 
       "id": "赵慧秋", 
-      "size": 4
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "卢胜奎", 
-      "attributes": {}, 
-      "y": -2260, 
       "x": -1981, 
+      "y": -2260, 
+      "attributes": {}, 
       "id": "卢胜奎", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "鲍吉祥", 
-      "attributes": {}, 
-      "y": 1335, 
       "x": 4831, 
+      "y": 1335, 
+      "attributes": {}, 
       "id": "鲍吉祥", 
-      "size": 9
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#9ADC49", 
       "label": "冯远江", 
-      "attributes": {}, 
-      "y": 1555, 
       "x": 2159, 
+      "y": 1555, 
+      "attributes": {}, 
       "id": "冯远江", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "张建国", 
-      "attributes": {}, 
-      "y": -330, 
       "x": 4385, 
+      "y": -330, 
+      "attributes": {}, 
       "id": "张建国", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "张世桐", 
-      "attributes": {}, 
-      "y": -2393, 
       "x": -2814, 
+      "y": -2393, 
+      "attributes": {}, 
       "id": "张世桐", 
-      "size": 5
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "裘盛戎", 
-      "attributes": {}, 
-      "y": 2169, 
-      "x": -3299, 
-      "id": "裘盛戎", 
-      "size": 28
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "余叔岩", 
-      "attributes": {}, 
-      "y": -9, 
-      "x": 3290, 
-      "id": "余叔岩", 
-      "size": 24
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "白玉昆", 
-      "attributes": {}, 
-      "y": -230, 
-      "x": 1350, 
-      "id": "白玉昆", 
-      "size": 11
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "顾正秋", 
-      "attributes": {}, 
-      "y": 1840, 
-      "x": -1908, 
-      "id": "顾正秋", 
       "size": 7
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#19C95C", 
+      "label": "裘盛戎", 
+      "x": -3299, 
+      "y": 2169, 
+      "attributes": {}, 
+      "id": "裘盛戎", 
+      "size": 2
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "余叔岩", 
+      "x": 3290, 
+      "y": -9, 
+      "attributes": {}, 
+      "id": "余叔岩", 
+      "size": 2
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "白玉昆", 
+      "x": 1350, 
+      "y": -230, 
+      "attributes": {}, 
+      "id": "白玉昆", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "顾正秋", 
+      "x": -1908, 
+      "y": 1840, 
+      "attributes": {}, 
+      "id": "顾正秋", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
       "label": "贯盛吉", 
-      "attributes": {}, 
-      "y": 684, 
       "x": 3019, 
+      "y": 684, 
+      "attributes": {}, 
       "id": "贯盛吉", 
-      "size": 11
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "蔡宝华", 
-      "attributes": {}, 
-      "y": 56, 
       "x": -4357, 
+      "y": 56, 
+      "attributes": {}, 
       "id": "蔡宝华", 
-      "size": 12
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "梅兰芳", 
-      "attributes": {}, 
-      "y": -1437, 
       "x": 176, 
+      "y": -1437, 
+      "attributes": {}, 
       "id": "梅兰芳", 
-      "size": 62
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "梅葆玖", 
-      "attributes": {}, 
-      "y": -1095, 
       "x": -3386, 
+      "y": -1095, 
+      "attributes": {}, 
       "id": "梅葆玖", 
       "size": 4
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#19C95C", 
       "label": "邢威明", 
-      "attributes": {}, 
-      "y": 1157, 
       "x": -744, 
+      "y": 1157, 
+      "attributes": {}, 
       "id": "邢威明", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "盖春来", 
-      "attributes": {}, 
-      "y": -1575, 
       "x": -3760, 
+      "y": -1575, 
+      "attributes": {}, 
       "id": "盖春来", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#1919c7", 
       "label": "孟小冬", 
-      "attributes": {}, 
-      "y": -1837, 
       "x": 4185, 
-      "id": "孟小冬", 
-      "size": 18
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "李毓芳", 
+      "y": -1837, 
       "attributes": {}, 
-      "y": 397, 
-      "x": 4800, 
-      "id": "李毓芳", 
+      "id": "孟小冬", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "李静文", 
+      "color": "#E0E750", 
+      "label": "李毓芳", 
+      "x": 4800, 
+      "y": 397, 
       "attributes": {}, 
-      "y": -253, 
+      "id": "李毓芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "李静文", 
       "x": 305, 
+      "y": -253, 
+      "attributes": {}, 
       "id": "李静文", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#9ADC49", 
       "label": "福芝芳", 
-      "attributes": {}, 
-      "y": -1661, 
       "x": 4090, 
+      "y": -1661, 
+      "attributes": {}, 
       "id": "福芝芳", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#1919c7", 
       "label": "李庆春", 
-      "attributes": {}, 
-      "y": -370, 
       "x": -998, 
+      "y": -370, 
+      "attributes": {}, 
       "id": "李庆春", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "奚延宏", 
-      "attributes": {}, 
-      "y": 1658, 
       "x": 1323, 
+      "y": 1658, 
+      "attributes": {}, 
       "id": "奚延宏", 
-      "size": 3
+      "size": 7
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#F88A13", 
       "label": "刘建杰", 
-      "attributes": {}, 
-      "y": 939, 
       "x": 4077, 
+      "y": 939, 
+      "attributes": {}, 
       "id": "刘建杰", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#9ADC49", 
       "label": "周啸天", 
-      "attributes": {}, 
-      "y": -1004, 
       "x": -3537, 
+      "y": -1004, 
+      "attributes": {}, 
       "id": "周啸天", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E62F57", 
       "label": "金秀山", 
-      "attributes": {}, 
-      "y": -244, 
       "x": -1507, 
+      "y": -244, 
+      "attributes": {}, 
       "id": "金秀山", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "琴雪芳", 
-      "attributes": {}, 
-      "y": -2314, 
       "x": 1792, 
+      "y": -2314, 
+      "attributes": {}, 
       "id": "琴雪芳", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#19C95C", 
       "label": "李维康", 
-      "attributes": {}, 
-      "y": 1581, 
       "x": 318, 
+      "y": 1581, 
+      "attributes": {}, 
       "id": "李维康", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "茹富蕙", 
-      "attributes": {}, 
-      "y": -771, 
       "x": 2886, 
+      "y": -771, 
+      "attributes": {}, 
       "id": "茹富蕙", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "谭元寿", 
-      "attributes": {}, 
-      "y": -888, 
       "x": 3464, 
+      "y": -888, 
+      "attributes": {}, 
       "id": "谭元寿", 
-      "size": 9
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "苏连汉", 
-      "attributes": {}, 
-      "y": 1564, 
       "x": -1980, 
+      "y": 1564, 
+      "attributes": {}, 
       "id": "苏连汉", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "萧盛萱", 
-      "attributes": {}, 
-      "y": -2468, 
       "x": -243, 
+      "y": -2468, 
+      "attributes": {}, 
       "id": "萧盛萱", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E62F57", 
       "label": "徐和才", 
-      "attributes": {}, 
-      "y": -953, 
       "x": -2246, 
+      "y": -953, 
+      "attributes": {}, 
       "id": "徐和才", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "梅葆玥", 
-      "attributes": {}, 
-      "y": -2443, 
       "x": -3574, 
+      "y": -2443, 
+      "attributes": {}, 
       "id": "梅葆玥", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "马永安", 
-      "attributes": {}, 
-      "y": 2420, 
       "x": -880, 
-      "id": "马永安", 
-      "size": 2
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "茹锡九", 
+      "y": 2420, 
       "attributes": {}, 
-      "y": 850, 
-      "x": 4649, 
-      "id": "茹锡九", 
+      "id": "马永安", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
-      "label": "俞振飞", 
+      "color": "#1919c7", 
+      "label": "茹锡九", 
+      "x": 4649, 
+      "y": 850, 
       "attributes": {}, 
-      "y": -78, 
-      "x": -1986, 
-      "id": "俞振飞", 
-      "size": 15
+      "id": "茹锡九", 
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
-      "label": "汪玉祥", 
+      "color": "#1919c7", 
+      "label": "俞振飞", 
+      "x": -1986, 
+      "y": -78, 
       "attributes": {}, 
-      "y": 352, 
+      "id": "俞振飞", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "汪玉祥", 
       "x": -3604, 
+      "y": 352, 
+      "attributes": {}, 
       "id": "汪玉祥", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#1919c7", 
       "label": "杨连贵", 
-      "attributes": {}, 
-      "y": 973, 
       "x": 4404, 
+      "y": 973, 
+      "attributes": {}, 
       "id": "杨连贵", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "金少臣", 
-      "attributes": {}, 
-      "y": -1870, 
       "x": 35, 
+      "y": -1870, 
+      "attributes": {}, 
       "id": "金少臣", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "陈少云", 
-      "attributes": {}, 
-      "y": -549, 
       "x": 935, 
+      "y": -549, 
+      "attributes": {}, 
       "id": "陈少云", 
-      "size": 1
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "吴钰璋", 
-      "attributes": {}, 
-      "y": -1264, 
-      "x": -2898, 
-      "id": "吴钰璋", 
-      "size": 1
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "雪艳琴", 
-      "attributes": {}, 
-      "y": -720, 
-      "x": -2333, 
-      "id": "雪艳琴", 
-      "size": 14
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "孙鹏志", 
-      "attributes": {}, 
-      "y": 1344, 
-      "x": 3601, 
-      "id": "孙鹏志", 
-      "size": 2
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "齐淑芳", 
-      "attributes": {}, 
-      "y": -96, 
-      "x": 4720, 
-      "id": "齐淑芳", 
-      "size": 2
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "夏荣庭", 
-      "attributes": {}, 
-      "y": -638, 
-      "x": 1459, 
-      "id": "夏荣庭", 
       "size": 3
     }, 
     {
-      "color": "#005EAA", 
-      "label": "郭少衡", 
+      "color": "#138DF8", 
+      "label": "吴钰璋", 
+      "x": -2898, 
+      "y": -1264, 
       "attributes": {}, 
-      "y": -21, 
+      "id": "吴钰璋", 
+      "size": 2
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "雪艳琴", 
+      "x": -2333, 
+      "y": -720, 
+      "attributes": {}, 
+      "id": "雪艳琴", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "孙鹏志", 
+      "x": 3601, 
+      "y": 1344, 
+      "attributes": {}, 
+      "id": "孙鹏志", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "齐淑芳", 
+      "x": 4720, 
+      "y": -96, 
+      "attributes": {}, 
+      "id": "齐淑芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "夏荣庭", 
+      "x": 1459, 
+      "y": -638, 
+      "attributes": {}, 
+      "id": "夏荣庭", 
+      "size": 1
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "郭少衡", 
       "x": 2625, 
+      "y": -21, 
+      "attributes": {}, 
       "id": "郭少衡", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "姚玉兰", 
-      "attributes": {}, 
-      "y": 284, 
       "x": -379, 
+      "y": 284, 
+      "attributes": {}, 
       "id": "姚玉兰", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "郭元祥", 
-      "attributes": {}, 
-      "y": -270, 
       "x": 3807, 
+      "y": -270, 
+      "attributes": {}, 
       "id": "郭元祥", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "钱浩梁", 
-      "attributes": {}, 
-      "y": 424, 
       "x": -813, 
-      "id": "钱浩梁", 
-      "size": 2
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "张啸竹", 
+      "y": 424, 
       "attributes": {}, 
-      "y": 278, 
-      "x": -656, 
-      "id": "张啸竹", 
+      "id": "钱浩梁", 
       "size": 3
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#19C95C", 
+      "label": "张啸竹", 
+      "x": -656, 
+      "y": 278, 
+      "attributes": {}, 
+      "id": "张啸竹", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
       "label": "陈朝红", 
-      "attributes": {}, 
-      "y": 1061, 
       "x": -1103, 
+      "y": 1061, 
+      "attributes": {}, 
       "id": "陈朝红", 
-      "size": 1
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "阎岚", 
-      "attributes": {}, 
-      "y": -889, 
-      "x": 2525, 
-      "id": "阎岚", 
-      "size": 1
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "赵啸澜", 
-      "attributes": {}, 
-      "y": -2119, 
-      "x": -2523, 
-      "id": "赵啸澜", 
       "size": 2
     }, 
     {
-      "color": "#2B821D", 
-      "label": "范永亮", 
+      "color": "#F88A13", 
+      "label": "阎岚", 
+      "x": 2525, 
+      "y": -889, 
       "attributes": {}, 
-      "y": -163, 
+      "id": "阎岚", 
+      "size": 2
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "赵啸澜", 
+      "x": -2523, 
+      "y": -2119, 
+      "attributes": {}, 
+      "id": "赵啸澜", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "范永亮", 
       "x": -4429, 
+      "y": -163, 
+      "attributes": {}, 
       "id": "范永亮", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#138DF8", 
       "label": "胡碧兰", 
-      "attributes": {}, 
-      "y": -360, 
       "x": 2002, 
+      "y": -360, 
+      "attributes": {}, 
       "id": "胡碧兰", 
-      "size": 9
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E62F57", 
       "label": "程长庚", 
-      "attributes": {}, 
-      "y": 1763, 
       "x": 3035, 
+      "y": 1763, 
+      "attributes": {}, 
       "id": "程长庚", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "宋德珠", 
-      "attributes": {}, 
-      "y": -516, 
       "x": -4401, 
+      "y": -516, 
+      "attributes": {}, 
       "id": "宋德珠", 
-      "size": 11
+      "size": 10
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#9ADC49", 
       "label": "刘斌昆", 
-      "attributes": {}, 
-      "y": -2221, 
       "x": 2977, 
+      "y": -2221, 
+      "attributes": {}, 
       "id": "刘斌昆", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "袁世海", 
-      "attributes": {}, 
-      "y": -704, 
       "x": -3778, 
+      "y": -704, 
+      "attributes": {}, 
       "id": "袁世海", 
-      "size": 33
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "徐孟珂", 
-      "attributes": {}, 
-      "y": -1839, 
       "x": 2872, 
+      "y": -1839, 
+      "attributes": {}, 
       "id": "徐孟珂", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "李世琦", 
-      "attributes": {}, 
-      "y": 1661, 
       "x": 3762, 
+      "y": 1661, 
+      "attributes": {}, 
       "id": "李世琦", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#1919c7", 
       "label": "言兴朋", 
-      "attributes": {}, 
-      "y": -1697, 
       "x": 2274, 
+      "y": -1697, 
+      "attributes": {}, 
       "id": "言兴朋", 
+      "size": 4
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "陈大濩", 
+      "x": -3404, 
+      "y": -1864, 
+      "attributes": {}, 
+      "id": "陈大濩", 
       "size": 3
     }, 
     {
-      "color": "#339CA8", 
-      "label": "陈大濩", 
-      "attributes": {}, 
-      "y": -1864, 
-      "x": -3404, 
-      "id": "陈大濩", 
-      "size": 2
-    }, 
-    {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "杨菊萍", 
-      "attributes": {}, 
-      "y": -950, 
       "x": -392, 
+      "y": -950, 
+      "attributes": {}, 
       "id": "杨菊萍", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "厉慧森", 
-      "attributes": {}, 
-      "y": -1542, 
       "x": -3074, 
+      "y": -1542, 
+      "attributes": {}, 
       "id": "厉慧森", 
-      "size": 2
+      "size": 3
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "胡少安", 
-      "attributes": {}, 
-      "y": -738, 
       "x": 4031, 
+      "y": -738, 
+      "attributes": {}, 
       "id": "胡少安", 
-      "size": 2
+      "size": 10
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "王宝利", 
-      "attributes": {}, 
-      "y": -1580, 
       "x": 343, 
+      "y": -1580, 
+      "attributes": {}, 
       "id": "王宝利", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "刘琪", 
-      "attributes": {}, 
-      "y": -590, 
       "x": 1144, 
+      "y": -590, 
+      "attributes": {}, 
       "id": "刘琪", 
+      "size": 2
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "刘鸿升", 
+      "x": -2970, 
+      "y": 1622, 
+      "attributes": {}, 
+      "id": "刘鸿升", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "刘鸿升", 
-      "attributes": {}, 
-      "y": 1622, 
-      "x": -2970, 
-      "id": "刘鸿升", 
-      "size": 3
-    }, 
-    {
-      "color": "#C12E34", 
+      "color": "#138DF8", 
       "label": "关正明", 
-      "attributes": {}, 
-      "y": -587, 
       "x": -1188, 
+      "y": -587, 
+      "attributes": {}, 
       "id": "关正明", 
-      "size": 13
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "司骍", 
-      "attributes": {}, 
-      "y": -953, 
       "x": 4910, 
+      "y": -953, 
+      "attributes": {}, 
       "id": "司骍", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "耿其昌", 
-      "attributes": {}, 
-      "y": -173, 
       "x": 548, 
+      "y": -173, 
+      "attributes": {}, 
       "id": "耿其昌", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "薛亚萍", 
-      "attributes": {}, 
-      "y": 1380, 
       "x": -4872, 
+      "y": 1380, 
+      "attributes": {}, 
       "id": "薛亚萍", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#9ADC49", 
       "label": "王芸芳", 
-      "attributes": {}, 
-      "y": 617, 
       "x": 2328, 
+      "y": 617, 
+      "attributes": {}, 
       "id": "王芸芳", 
-      "size": 8
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "詹世辅", 
-      "attributes": {}, 
-      "y": -1266, 
-      "x": -2765, 
-      "id": "詹世辅", 
-      "size": 3
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "王玉敏", 
-      "attributes": {}, 
-      "y": -1144, 
-      "x": 3442, 
-      "id": "王玉敏", 
-      "size": 7
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "尚长春", 
-      "attributes": {}, 
-      "y": -2304, 
-      "x": 2229, 
-      "id": "尚长春", 
-      "size": 4
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "白登云", 
-      "attributes": {}, 
-      "y": 1837, 
-      "x": -3924, 
-      "id": "白登云", 
-      "size": 10
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "许翰英", 
-      "attributes": {}, 
-      "y": 1305, 
-      "x": 4237, 
-      "id": "许翰英", 
-      "size": 6
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "周信芳", 
-      "attributes": {}, 
-      "y": -793, 
-      "x": 3728, 
-      "id": "周信芳", 
-      "size": 33
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "赵燕侠", 
-      "attributes": {}, 
-      "y": -1330, 
-      "x": -2448, 
-      "id": "赵燕侠", 
-      "size": 24
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "谭鑫培", 
-      "attributes": {}, 
-      "y": -1737, 
-      "x": 186, 
-      "id": "谭鑫培", 
-      "size": 15
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "刘桂娟", 
-      "attributes": {}, 
-      "y": 466, 
-      "x": -4540, 
-      "id": "刘桂娟", 
-      "size": 4
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "言慧珠", 
-      "attributes": {}, 
-      "y": 491, 
-      "x": -1840, 
-      "id": "言慧珠", 
-      "size": 25
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "刘元彤", 
-      "attributes": {}, 
-      "y": -1338, 
-      "x": 3677, 
-      "id": "刘元彤", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "杨燕毅", 
+      "color": "#39F813", 
+      "label": "詹世辅", 
+      "x": -2765, 
+      "y": -1266, 
       "attributes": {}, 
-      "y": 1064, 
+      "id": "詹世辅", 
+      "size": 7
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "王玉敏", 
+      "x": 3442, 
+      "y": -1144, 
+      "attributes": {}, 
+      "id": "王玉敏", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "尚长春", 
+      "x": 2229, 
+      "y": -2304, 
+      "attributes": {}, 
+      "id": "尚长春", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "白登云", 
+      "x": -3924, 
+      "y": 1837, 
+      "attributes": {}, 
+      "id": "白登云", 
+      "size": 9
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "许翰英", 
+      "x": 4237, 
+      "y": 1305, 
+      "attributes": {}, 
+      "id": "许翰英", 
+      "size": 8
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "周信芳", 
+      "x": 3728, 
+      "y": -793, 
+      "attributes": {}, 
+      "id": "周信芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "赵燕侠", 
+      "x": -2448, 
+      "y": -1330, 
+      "attributes": {}, 
+      "id": "赵燕侠", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "谭鑫培", 
+      "x": 186, 
+      "y": -1737, 
+      "attributes": {}, 
+      "id": "谭鑫培", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "刘桂娟", 
+      "x": -4540, 
+      "y": 466, 
+      "attributes": {}, 
+      "id": "刘桂娟", 
+      "size": 2
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "言慧珠", 
+      "x": -1840, 
+      "y": 491, 
+      "attributes": {}, 
+      "id": "言慧珠", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "刘元彤", 
+      "x": 3677, 
+      "y": -1338, 
+      "attributes": {}, 
+      "id": "刘元彤", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "杨燕毅", 
       "x": -91, 
+      "y": 1064, 
+      "attributes": {}, 
       "id": "杨燕毅", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "叶盛章", 
-      "attributes": {}, 
-      "y": 863, 
       "x": -1526, 
+      "y": 863, 
+      "attributes": {}, 
       "id": "叶盛章", 
-      "size": 10
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "马德成", 
-      "attributes": {}, 
-      "y": 467, 
       "x": 2477, 
+      "y": 467, 
+      "attributes": {}, 
       "id": "马德成", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "徐碧云", 
-      "attributes": {}, 
-      "y": 399, 
       "x": -3151, 
+      "y": 399, 
+      "attributes": {}, 
       "id": "徐碧云", 
-      "size": 14
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "罗长德", 
-      "attributes": {}, 
-      "y": -1562, 
       "x": -1018, 
+      "y": -1562, 
+      "attributes": {}, 
       "id": "罗长德", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8419c7", 
       "label": "黄云鹏", 
-      "attributes": {}, 
-      "y": 1498, 
       "x": -1463, 
+      "y": 1498, 
+      "attributes": {}, 
       "id": "黄云鹏", 
-      "size": 1
+      "size": 22
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "樊德春", 
-      "attributes": {}, 
-      "y": -1308, 
       "x": -2594, 
+      "y": -1308, 
+      "attributes": {}, 
       "id": "樊德春", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "姜铁麟", 
-      "attributes": {}, 
-      "y": -2249, 
       "x": 3753, 
+      "y": -2249, 
+      "attributes": {}, 
       "id": "姜铁麟", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "荀慧生", 
-      "attributes": {}, 
-      "y": -1272, 
       "x": -1674, 
+      "y": -1272, 
+      "attributes": {}, 
       "id": "荀慧生", 
-      "size": 44
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "醉丽君", 
-      "attributes": {}, 
-      "y": 41, 
       "x": 980, 
+      "y": 41, 
+      "attributes": {}, 
       "id": "醉丽君", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#19C95C", 
       "label": "郑永春", 
-      "attributes": {}, 
-      "y": -1937, 
       "x": -1840, 
+      "y": -1937, 
+      "attributes": {}, 
       "id": "郑永春", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "王少楼", 
-      "attributes": {}, 
-      "y": 1756, 
       "x": 4161, 
+      "y": 1756, 
+      "attributes": {}, 
       "id": "王少楼", 
-      "size": 5
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "王吟秋", 
-      "attributes": {}, 
-      "y": 846, 
-      "x": 2094, 
-      "id": "王吟秋", 
-      "size": 2
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "王世霞", 
-      "attributes": {}, 
-      "y": -2368, 
-      "x": -4346, 
-      "id": "王世霞", 
-      "size": 7
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "张云溪", 
-      "attributes": {}, 
-      "y": -744, 
-      "x": 504, 
-      "id": "张云溪", 
-      "size": 14
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "徐建忠", 
-      "attributes": {}, 
-      "y": 36, 
-      "x": 315, 
-      "id": "徐建忠", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
-      "label": "李鸣盛", 
+      "color": "#138DF8", 
+      "label": "王吟秋", 
+      "x": 2094, 
+      "y": 846, 
       "attributes": {}, 
-      "y": -1894, 
-      "x": 1395, 
-      "id": "李鸣盛", 
-      "size": 7
+      "id": "王吟秋", 
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "曹连孝", 
+      "color": "#E62F57", 
+      "label": "王世霞", 
+      "x": -4346, 
+      "y": -2368, 
       "attributes": {}, 
-      "y": 2259, 
+      "id": "王世霞", 
+      "size": 1
+    }, 
+    {
+      "color": "#c71969", 
+      "label": "张云溪", 
+      "x": 504, 
+      "y": -744, 
+      "attributes": {}, 
+      "id": "张云溪", 
+      "size": 17
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "徐建忠", 
+      "x": 315, 
+      "y": 36, 
+      "attributes": {}, 
+      "id": "徐建忠", 
+      "size": 8
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "李鸣盛", 
+      "x": 1395, 
+      "y": -1894, 
+      "attributes": {}, 
+      "id": "李鸣盛", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "曹连孝", 
       "x": 1913, 
+      "y": 2259, 
+      "attributes": {}, 
       "id": "曹连孝", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "爱新觉罗·毓铭", 
+      "x": 606, 
+      "y": -1333, 
+      "attributes": {}, 
+      "id": "爱新觉罗·毓铭", 
+      "size": 3
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "张春秋", 
+      "x": -2287, 
+      "y": 921, 
+      "attributes": {}, 
+      "id": "张春秋", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "爱新觉罗·毓铭", 
-      "attributes": {}, 
-      "y": -1333, 
-      "x": 606, 
-      "id": "爱新觉罗·毓铭", 
-      "size": 10
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "张春秋", 
-      "attributes": {}, 
-      "y": 921, 
-      "x": -2287, 
-      "id": "张春秋", 
-      "size": 3
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "纪玉良", 
-      "attributes": {}, 
-      "y": -1457, 
       "x": 664, 
+      "y": -1457, 
+      "attributes": {}, 
       "id": "纪玉良", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#39F813", 
       "label": "夏月润", 
-      "attributes": {}, 
-      "y": 2152, 
       "x": -1188, 
+      "y": 2152, 
+      "attributes": {}, 
       "id": "夏月润", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "张铁华", 
-      "attributes": {}, 
-      "y": 52, 
       "x": -1474, 
+      "y": 52, 
+      "attributes": {}, 
       "id": "张铁华", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "金素琴", 
+      "x": -1808, 
+      "y": 513, 
+      "attributes": {}, 
+      "id": "金素琴", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "金素琴", 
-      "attributes": {}, 
-      "y": 513, 
-      "x": -1808, 
-      "id": "金素琴", 
-      "size": 3
-    }, 
-    {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "管韵华", 
-      "attributes": {}, 
-      "y": 2164, 
       "x": 4451, 
+      "y": 2164, 
+      "attributes": {}, 
       "id": "管韵华", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "张金梁", 
-      "attributes": {}, 
-      "y": -527, 
       "x": 4941, 
+      "y": -527, 
+      "attributes": {}, 
       "id": "张金梁", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "孙正琦", 
-      "attributes": {}, 
-      "y": 1411, 
       "x": -1247, 
+      "y": 1411, 
+      "attributes": {}, 
       "id": "孙正琦", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#F88A13", 
       "label": "高百岁", 
-      "attributes": {}, 
-      "y": 1145, 
       "x": 1562, 
+      "y": 1145, 
+      "attributes": {}, 
       "id": "高百岁", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "何玉蓉", 
-      "attributes": {}, 
-      "y": -531, 
       "x": -4711, 
+      "y": -531, 
+      "attributes": {}, 
       "id": "何玉蓉", 
+      "size": 9
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "侯喜瑞", 
+      "x": -1194, 
+      "y": -2064, 
+      "attributes": {}, 
+      "id": "侯喜瑞", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "侯喜瑞", 
-      "attributes": {}, 
-      "y": -2064, 
-      "x": -1194, 
-      "id": "侯喜瑞", 
-      "size": 31
-    }, 
-    {
-      "color": "#CDA819", 
+      "color": "#9ADC49", 
       "label": "邱富棠", 
-      "attributes": {}, 
-      "y": -87, 
       "x": -4463, 
+      "y": -87, 
+      "attributes": {}, 
       "id": "邱富棠", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E62F57", 
       "label": "张南云", 
-      "attributes": {}, 
-      "y": -2408, 
       "x": 2991, 
+      "y": -2408, 
+      "attributes": {}, 
       "id": "张南云", 
+      "size": 7
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "王梦云", 
+      "x": -419, 
+      "y": 543, 
+      "attributes": {}, 
+      "id": "王梦云", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
-      "label": "王梦云", 
+      "color": "#E62F57", 
+      "label": "国少卿", 
+      "x": -3329, 
+      "y": 1796, 
       "attributes": {}, 
-      "y": 543, 
-      "x": -419, 
-      "id": "王梦云", 
+      "id": "国少卿", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "筱高雪樵", 
+      "x": 561, 
+      "y": -509, 
+      "attributes": {}, 
+      "id": "筱高雪樵", 
       "size": 2
     }, 
     {
-      "color": "#0098D9", 
-      "label": "国少卿", 
-      "attributes": {}, 
-      "y": 1796, 
-      "x": -3329, 
-      "id": "国少卿", 
-      "size": 3
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "筱高雪樵", 
-      "attributes": {}, 
-      "y": -509, 
-      "x": 561, 
-      "id": "筱高雪樵", 
-      "size": 3
-    }, 
-    {
-      "color": "#C12E34", 
+      "color": "#9ADC49", 
       "label": "陈永玲", 
-      "attributes": {}, 
-      "y": 1817, 
       "x": 592, 
+      "y": 1817, 
+      "attributes": {}, 
       "id": "陈永玲", 
-      "size": 16
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#39F813", 
       "label": "郭春山", 
-      "attributes": {}, 
-      "y": -2210, 
       "x": 2587, 
+      "y": -2210, 
+      "attributes": {}, 
       "id": "郭春山", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "王连浦", 
-      "attributes": {}, 
-      "y": 552, 
       "x": 1816, 
+      "y": 552, 
+      "attributes": {}, 
       "id": "王连浦", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#9ADC49", 
       "label": "杨小楼", 
-      "attributes": {}, 
-      "y": -2256, 
       "x": -4685, 
+      "y": -2256, 
+      "attributes": {}, 
       "id": "杨小楼", 
-      "size": 10
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E62F57", 
       "label": "新艳秋", 
-      "attributes": {}, 
-      "y": 66, 
       "x": -3879, 
+      "y": 66, 
+      "attributes": {}, 
       "id": "新艳秋", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "谭小培", 
-      "attributes": {}, 
-      "y": 1900, 
       "x": 2747, 
+      "y": 1900, 
+      "attributes": {}, 
       "id": "谭小培", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "孙洪勋", 
-      "attributes": {}, 
-      "y": 1795, 
       "x": 4042, 
+      "y": 1795, 
+      "attributes": {}, 
       "id": "孙洪勋", 
-      "size": 3
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "魏莲芳", 
-      "attributes": {}, 
-      "y": 2025, 
       "x": -2612, 
+      "y": 2025, 
+      "attributes": {}, 
       "id": "魏莲芳", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
       "label": "董维贤", 
-      "attributes": {}, 
-      "y": 1330, 
       "x": 1825, 
+      "y": 1330, 
+      "attributes": {}, 
       "id": "董维贤", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#19C95C", 
       "label": "朱琴心", 
-      "attributes": {}, 
-      "y": -8, 
       "x": 1128, 
+      "y": -8, 
+      "attributes": {}, 
       "id": "朱琴心", 
-      "size": 3
+      "size": 4
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E0E750", 
       "label": "朱福侠", 
-      "attributes": {}, 
-      "y": -1597, 
       "x": -2287, 
+      "y": -1597, 
+      "attributes": {}, 
       "id": "朱福侠", 
-      "size": 1
+      "size": 9
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "李世济", 
-      "attributes": {}, 
-      "y": -2106, 
       "x": -2677, 
+      "y": -2106, 
+      "attributes": {}, 
       "id": "李世济", 
-      "size": 11
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "白洪亮", 
-      "attributes": {}, 
-      "y": 1223, 
       "x": 3992, 
+      "y": 1223, 
+      "attributes": {}, 
       "id": "白洪亮", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "曹艺斌", 
-      "attributes": {}, 
-      "y": -1319, 
       "x": -1961, 
+      "y": -1319, 
+      "attributes": {}, 
       "id": "曹艺斌", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "闻占萍", 
-      "attributes": {}, 
-      "y": 587, 
       "x": -4784, 
+      "y": 587, 
+      "attributes": {}, 
       "id": "闻占萍", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "陈国森", 
-      "attributes": {}, 
-      "y": 792, 
       "x": -1888, 
+      "y": 792, 
+      "attributes": {}, 
       "id": "陈国森", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "王玉瑾", 
-      "attributes": {}, 
-      "y": 668, 
       "x": -2315, 
+      "y": 668, 
+      "attributes": {}, 
       "id": "王玉瑾", 
-      "size": 5
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "杭子和", 
-      "attributes": {}, 
-      "y": 1638, 
       "x": 2397, 
+      "y": 1638, 
+      "attributes": {}, 
       "id": "杭子和", 
-      "size": 5
+      "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "王世续", 
-      "attributes": {}, 
-      "y": -1420, 
       "x": 73, 
+      "y": -1420, 
+      "attributes": {}, 
       "id": "王世续", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "赵云鹤", 
-      "attributes": {}, 
-      "y": -1496, 
       "x": -2592, 
+      "y": -1496, 
+      "attributes": {}, 
       "id": "赵云鹤", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "张元智", 
-      "attributes": {}, 
-      "y": 73, 
       "x": -4686, 
+      "y": 73, 
+      "attributes": {}, 
       "id": "张元智", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "张宝荣", 
-      "attributes": {}, 
-      "y": 1820, 
       "x": 3489, 
+      "y": 1820, 
+      "attributes": {}, 
       "id": "张宝荣", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "杨楠", 
-      "attributes": {}, 
-      "y": 40, 
       "x": -2913, 
+      "y": 40, 
+      "attributes": {}, 
       "id": "杨楠", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "贺永华", 
-      "attributes": {}, 
-      "y": -2310, 
       "x": -995, 
+      "y": -2310, 
+      "attributes": {}, 
       "id": "贺永华", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#1919c7", 
       "label": "李永利", 
-      "attributes": {}, 
-      "y": -1956, 
       "x": -594, 
+      "y": -1956, 
+      "attributes": {}, 
       "id": "李永利", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E62F57", 
       "label": "白家麟", 
-      "attributes": {}, 
-      "y": -549, 
       "x": 505, 
+      "y": -549, 
+      "attributes": {}, 
       "id": "白家麟", 
-      "size": 5
+      "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "金少梅", 
-      "attributes": {}, 
-      "y": -1894, 
       "x": 338, 
+      "y": -1894, 
+      "attributes": {}, 
       "id": "金少梅", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "高雪樵", 
-      "attributes": {}, 
-      "y": -378, 
       "x": -2998, 
+      "y": -378, 
+      "attributes": {}, 
       "id": "高雪樵", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#8E1AC8", 
       "label": "欧阳予倩", 
-      "attributes": {}, 
-      "y": 2205, 
       "x": 710, 
+      "y": 2205, 
+      "attributes": {}, 
       "id": "欧阳予倩", 
-      "size": 9
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "高维儒", 
-      "attributes": {}, 
-      "y": -1923, 
       "x": -216, 
+      "y": -1923, 
+      "attributes": {}, 
       "id": "高维儒", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#1919c7", 
       "label": "高玉倩", 
-      "attributes": {}, 
-      "y": 2202, 
       "x": 191, 
+      "y": 2202, 
+      "attributes": {}, 
       "id": "高玉倩", 
-      "size": 4
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "朱强", 
-      "attributes": {}, 
-      "y": 924, 
-      "x": 4004, 
-      "id": "朱强", 
-      "size": 2
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "赵荣琛", 
-      "attributes": {}, 
-      "y": 1615, 
-      "x": -4408, 
-      "id": "赵荣琛", 
-      "size": 7
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "毛世来", 
-      "attributes": {}, 
-      "y": -508, 
-      "x": -996, 
-      "id": "毛世来", 
-      "size": 17
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "薛浩伟", 
-      "attributes": {}, 
-      "y": -1323, 
-      "x": 794, 
-      "id": "薛浩伟", 
-      "size": 2
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "张志云", 
-      "attributes": {}, 
-      "y": 218, 
-      "x": 2245, 
-      "id": "张志云", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
-      "label": "薛凤池", 
+      "color": "#E0E750", 
+      "label": "朱强", 
+      "x": 4004, 
+      "y": 924, 
       "attributes": {}, 
-      "y": -38, 
+      "id": "朱强", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "赵荣琛", 
+      "x": -4408, 
+      "y": 1615, 
+      "attributes": {}, 
+      "id": "赵荣琛", 
+      "size": 8
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "毛世来", 
+      "x": -996, 
+      "y": -508, 
+      "attributes": {}, 
+      "id": "毛世来", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "薛浩伟", 
+      "x": 794, 
+      "y": -1323, 
+      "attributes": {}, 
+      "id": "薛浩伟", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "张志云", 
+      "x": 2245, 
+      "y": 218, 
+      "attributes": {}, 
+      "id": "张志云", 
+      "size": 2
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "薛凤池", 
       "x": -4691, 
+      "y": -38, 
+      "attributes": {}, 
       "id": "薛凤池", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "李宗义", 
-      "attributes": {}, 
-      "y": 1367, 
       "x": -3907, 
+      "y": 1367, 
+      "attributes": {}, 
       "id": "李宗义", 
-      "size": 16
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "张世麟", 
-      "attributes": {}, 
-      "y": -2350, 
       "x": 3296, 
+      "y": -2350, 
+      "attributes": {}, 
       "id": "张世麟", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#19C95C", 
       "label": "孙柏龄", 
-      "attributes": {}, 
-      "y": 101, 
       "x": -1701, 
+      "y": 101, 
+      "attributes": {}, 
       "id": "孙柏龄", 
-      "size": 19
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "陈少霖", 
-      "attributes": {}, 
-      "y": 2166, 
       "x": -263, 
+      "y": 2166, 
+      "attributes": {}, 
       "id": "陈少霖", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "谭富英", 
+      "x": -4119, 
+      "y": -832, 
+      "attributes": {}, 
+      "id": "谭富英", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
-      "label": "谭富英", 
-      "attributes": {}, 
-      "y": -832, 
-      "x": -4119, 
-      "id": "谭富英", 
-      "size": 62
-    }, 
-    {
-      "color": "#CDA819", 
+      "color": "#9ADC49", 
       "label": "张世年", 
-      "attributes": {}, 
-      "y": -1384, 
       "x": 197, 
+      "y": -1384, 
+      "attributes": {}, 
       "id": "张世年", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "张关正", 
-      "attributes": {}, 
-      "y": 329, 
       "x": -1330, 
-      "id": "张关正", 
-      "size": 8
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "曹韵清", 
+      "y": 329, 
       "attributes": {}, 
-      "y": 1985, 
-      "x": -1191, 
-      "id": "曹韵清", 
+      "id": "张关正", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#138DF8", 
+      "label": "曹韵清", 
+      "x": -1191, 
+      "y": 1985, 
+      "attributes": {}, 
+      "id": "曹韵清", 
+      "size": 2
+    }, 
+    {
+      "color": "#E0E750", 
       "label": "方连元", 
-      "attributes": {}, 
-      "y": 1510, 
       "x": 3540, 
+      "y": 1510, 
+      "attributes": {}, 
       "id": "方连元", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E62F57", 
       "label": "孙荣蕙", 
-      "attributes": {}, 
-      "y": 2475, 
       "x": -2529, 
+      "y": 2475, 
+      "attributes": {}, 
       "id": "孙荣蕙", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#19C95C", 
       "label": "王琴生", 
-      "attributes": {}, 
-      "y": 878, 
       "x": -3466, 
+      "y": 878, 
+      "attributes": {}, 
       "id": "王琴生", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "翟韵奎", 
-      "attributes": {}, 
-      "y": 648, 
       "x": -4624, 
+      "y": 648, 
+      "attributes": {}, 
       "id": "翟韵奎", 
-      "size": 12
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "杨畹农", 
-      "attributes": {}, 
-      "y": -1094, 
       "x": 1828, 
+      "y": -1094, 
+      "attributes": {}, 
       "id": "杨畹农", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#8E1AC8", 
       "label": "李盛藻", 
-      "attributes": {}, 
-      "y": 2173, 
       "x": 3126, 
+      "y": 2173, 
+      "attributes": {}, 
       "id": "李盛藻", 
-      "size": 14
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#9ADC49", 
       "label": "郭玉昆", 
-      "attributes": {}, 
-      "y": -2457, 
       "x": -2236, 
+      "y": -2457, 
+      "attributes": {}, 
       "id": "郭玉昆", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "骆连翔", 
-      "attributes": {}, 
-      "y": -60, 
       "x": 2631, 
+      "y": -60, 
+      "attributes": {}, 
       "id": "骆连翔", 
       "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "孙盛辅", 
-      "attributes": {}, 
-      "y": -2264, 
       "x": -3469, 
+      "y": -2264, 
+      "attributes": {}, 
       "id": "孙盛辅", 
-      "size": 11
+      "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#19C95C", 
       "label": "刘桂欣", 
-      "attributes": {}, 
-      "y": -1846, 
       "x": -4959, 
+      "y": -1846, 
+      "attributes": {}, 
       "id": "刘桂欣", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "范成玉", 
-      "attributes": {}, 
-      "y": 1481, 
       "x": 4688, 
+      "y": 1481, 
+      "attributes": {}, 
       "id": "范成玉", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "董翠娜", 
-      "attributes": {}, 
-      "y": -1620, 
       "x": -4328, 
+      "y": -1620, 
+      "attributes": {}, 
       "id": "董翠娜", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "厉慧兰", 
-      "attributes": {}, 
-      "y": 725, 
       "x": -4747, 
+      "y": 725, 
+      "attributes": {}, 
       "id": "厉慧兰", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "黄三雄", 
-      "attributes": {}, 
-      "y": 1389, 
       "x": 3637, 
+      "y": 1389, 
+      "attributes": {}, 
       "id": "黄三雄", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E0E750", 
       "label": "李春来", 
-      "attributes": {}, 
-      "y": -442, 
       "x": -1768, 
+      "y": -442, 
+      "attributes": {}, 
       "id": "李春来", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "杨宝忠", 
-      "attributes": {}, 
-      "y": 552, 
       "x": -2449, 
+      "y": 552, 
+      "attributes": {}, 
       "id": "杨宝忠", 
-      "size": 6
+      "size": 3
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "江新蓉", 
-      "attributes": {}, 
-      "y": -2201, 
       "x": 4385, 
+      "y": -2201, 
+      "attributes": {}, 
       "id": "江新蓉", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "时慧宝", 
-      "attributes": {}, 
-      "y": 1543, 
       "x": 981, 
+      "y": 1543, 
+      "attributes": {}, 
       "id": "时慧宝", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "翟萍", 
-      "attributes": {}, 
-      "y": 1484, 
       "x": 625, 
+      "y": 1484, 
+      "attributes": {}, 
       "id": "翟萍", 
-      "size": 1
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "谷春章", 
-      "attributes": {}, 
-      "y": -995, 
-      "x": -3675, 
-      "id": "谷春章", 
-      "size": 1
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "诸世芬", 
-      "attributes": {}, 
-      "y": 781, 
-      "x": -3979, 
-      "id": "诸世芬", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "张永远", 
+      "color": "#E0E750", 
+      "label": "谷春章", 
+      "x": -3675, 
+      "y": -995, 
       "attributes": {}, 
-      "y": 1326, 
+      "id": "谷春章", 
+      "size": 4
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "诸世芬", 
+      "x": -3979, 
+      "y": 781, 
+      "attributes": {}, 
+      "id": "诸世芬", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "张永远", 
       "x": 3609, 
+      "y": 1326, 
+      "attributes": {}, 
       "id": "张永远", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "谭晓令", 
-      "attributes": {}, 
-      "y": -826, 
       "x": -2930, 
+      "y": -826, 
+      "attributes": {}, 
       "id": "谭晓令", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "李盛斌", 
-      "attributes": {}, 
-      "y": 1067, 
       "x": -2239, 
+      "y": 1067, 
+      "attributes": {}, 
       "id": "李盛斌", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#138DF8", 
       "label": "宋凤云", 
-      "attributes": {}, 
-      "y": -412, 
       "x": 329, 
+      "y": -412, 
+      "attributes": {}, 
       "id": "宋凤云", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#E0E750", 
       "label": "荀令莱", 
-      "attributes": {}, 
-      "y": -86, 
       "x": -4732, 
+      "y": -86, 
+      "attributes": {}, 
       "id": "荀令莱", 
-      "size": 1
+      "size": 4
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "李莉", 
-      "attributes": {}, 
-      "y": -186, 
       "x": 550, 
+      "y": -186, 
+      "attributes": {}, 
       "id": "李莉", 
-      "size": 1
+      "size": 4
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "时青山", 
-      "attributes": {}, 
-      "y": -268, 
       "x": -1532, 
+      "y": -268, 
+      "attributes": {}, 
       "id": "时青山", 
-      "size": 9
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "梁益鸣", 
-      "attributes": {}, 
-      "y": 1907, 
-      "x": -676, 
-      "id": "梁益鸣", 
-      "size": 3
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "碧云霞", 
-      "attributes": {}, 
-      "y": 131, 
-      "x": -1394, 
-      "id": "碧云霞", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "王玉蓉", 
+      "color": "#E62F57", 
+      "label": "梁益鸣", 
+      "x": -676, 
+      "y": 1907, 
       "attributes": {}, 
-      "y": -1619, 
-      "x": -470, 
-      "id": "王玉蓉", 
-      "size": 10
+      "id": "梁益鸣", 
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "沈长春", 
+      "color": "#E62F57", 
+      "label": "碧云霞", 
+      "x": -1394, 
+      "y": 131, 
       "attributes": {}, 
-      "y": 1119, 
-      "x": 3048, 
-      "id": "沈长春", 
-      "size": 5
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "温玉荣", 
-      "attributes": {}, 
-      "y": 116, 
-      "x": 3285, 
-      "id": "温玉荣", 
-      "size": 4
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "孙元彬", 
-      "attributes": {}, 
-      "y": -1193, 
-      "x": -3598, 
-      "id": "孙元彬", 
-      "size": 4
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "刘秀荣", 
-      "attributes": {}, 
-      "y": -2113, 
-      "x": 4557, 
-      "id": "刘秀荣", 
-      "size": 6
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "孙元坡", 
-      "attributes": {}, 
-      "y": -342, 
-      "x": 2894, 
-      "id": "孙元坡", 
-      "size": 4
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "金锡华", 
-      "attributes": {}, 
-      "y": -1968, 
-      "x": -3414, 
-      "id": "金锡华", 
-      "size": 4
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "刘雪涛", 
-      "attributes": {}, 
-      "y": 720, 
-      "x": -178, 
-      "id": "刘雪涛", 
-      "size": 9
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "梁秀娟", 
-      "attributes": {}, 
-      "y": -673, 
-      "x": -2811, 
-      "id": "梁秀娟", 
+      "id": "碧云霞", 
       "size": 2
     }, 
     {
-      "color": "#E6B600", 
-      "label": "孙毓敏", 
+      "color": "#39F813", 
+      "label": "王玉蓉", 
+      "x": -470, 
+      "y": -1619, 
       "attributes": {}, 
-      "y": 798, 
-      "x": -822, 
-      "id": "孙毓敏", 
-      "size": 3
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "孙怡云", 
-      "attributes": {}, 
-      "y": 301, 
-      "x": -1036, 
-      "id": "孙怡云", 
-      "size": 3
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "李玉书", 
-      "attributes": {}, 
-      "y": 850, 
-      "x": 1069, 
-      "id": "李玉书", 
+      "id": "王玉蓉", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
+      "label": "沈长春", 
+      "x": 3048, 
+      "y": 1119, 
+      "attributes": {}, 
+      "id": "沈长春", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "温玉荣", 
+      "x": 3285, 
+      "y": 116, 
+      "attributes": {}, 
+      "id": "温玉荣", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "孙元彬", 
+      "x": -3598, 
+      "y": -1193, 
+      "attributes": {}, 
+      "id": "孙元彬", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "刘秀荣", 
+      "x": 4557, 
+      "y": -2113, 
+      "attributes": {}, 
+      "id": "刘秀荣", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "孙元坡", 
+      "x": 2894, 
+      "y": -342, 
+      "attributes": {}, 
+      "id": "孙元坡", 
+      "size": 2
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "金锡华", 
+      "x": -3414, 
+      "y": -1968, 
+      "attributes": {}, 
+      "id": "金锡华", 
+      "size": 1
+    }, 
+    {
+      "color": "#9ADC49", 
+      "label": "刘雪涛", 
+      "x": -178, 
+      "y": 720, 
+      "attributes": {}, 
+      "id": "刘雪涛", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "梁秀娟", 
+      "x": -2811, 
+      "y": -673, 
+      "attributes": {}, 
+      "id": "梁秀娟", 
+      "size": 3
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "孙毓敏", 
+      "x": -822, 
+      "y": 798, 
+      "attributes": {}, 
+      "id": "孙毓敏", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "孙怡云", 
+      "x": -1036, 
+      "y": 301, 
+      "attributes": {}, 
+      "id": "孙怡云", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "李玉书", 
+      "x": 1069, 
+      "y": 850, 
+      "attributes": {}, 
+      "id": "李玉书", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
       "label": "王紫苓", 
-      "attributes": {}, 
-      "y": 1883, 
       "x": 3830, 
+      "y": 1883, 
+      "attributes": {}, 
       "id": "王紫苓", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "张燕华", 
-      "attributes": {}, 
-      "y": 1332, 
       "x": -4412, 
+      "y": 1332, 
+      "attributes": {}, 
       "id": "张燕华", 
-      "size": 6
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "金素雯", 
-      "attributes": {}, 
-      "y": 511, 
       "x": -805, 
+      "y": 511, 
+      "attributes": {}, 
       "id": "金素雯", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "黄润甫", 
-      "attributes": {}, 
-      "y": -2405, 
       "x": 2683, 
+      "y": -2405, 
+      "attributes": {}, 
       "id": "黄润甫", 
-      "size": 5
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "杨玉华", 
-      "attributes": {}, 
-      "y": 1269, 
-      "x": 407, 
-      "id": "杨玉华", 
-      "size": 8
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "罗蕙兰", 
-      "attributes": {}, 
-      "y": 60, 
-      "x": -635, 
-      "id": "罗蕙兰", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
-      "label": "李四广", 
+      "color": "#1919c7", 
+      "label": "杨玉华", 
+      "x": 407, 
+      "y": 1269, 
       "attributes": {}, 
-      "y": 40, 
+      "id": "杨玉华", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "罗蕙兰", 
+      "x": -635, 
+      "y": 60, 
+      "attributes": {}, 
+      "id": "罗蕙兰", 
+      "size": 4
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "李四广", 
       "x": -4954, 
+      "y": 40, 
+      "attributes": {}, 
       "id": "李四广", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "陈长庆", 
-      "attributes": {}, 
-      "y": -2331, 
       "x": 4540, 
+      "y": -2331, 
+      "attributes": {}, 
       "id": "陈长庆", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#1919c7", 
       "label": "刘宗杨", 
-      "attributes": {}, 
-      "y": 1303, 
       "x": -4364, 
+      "y": 1303, 
+      "attributes": {}, 
       "id": "刘宗杨", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E62F57", 
       "label": "钱金福", 
-      "attributes": {}, 
-      "y": -482, 
       "x": 3603, 
+      "y": -482, 
+      "attributes": {}, 
       "id": "钱金福", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E62F57", 
       "label": "宋丹菊", 
-      "attributes": {}, 
-      "y": -202, 
       "x": 3266, 
+      "y": -202, 
+      "attributes": {}, 
       "id": "宋丹菊", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "张春华", 
-      "attributes": {}, 
-      "y": 917, 
       "x": -3663, 
+      "y": 917, 
+      "attributes": {}, 
       "id": "张春华", 
-      "size": 15
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#19C95C", 
       "label": "张春孝", 
-      "attributes": {}, 
-      "y": -24, 
       "x": -4197, 
+      "y": -24, 
+      "attributes": {}, 
       "id": "张春孝", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "乔玉泉", 
-      "attributes": {}, 
-      "y": -1191, 
       "x": 4674, 
+      "y": -1191, 
+      "attributes": {}, 
       "id": "乔玉泉", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "李长春", 
-      "attributes": {}, 
-      "y": -416, 
       "x": -2517, 
+      "y": -416, 
+      "attributes": {}, 
       "id": "李长春", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "董俊峰", 
+      "x": -1023, 
+      "y": 1822, 
+      "attributes": {}, 
+      "id": "董俊峰", 
+      "size": 7
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "寇春华", 
+      "x": 3755, 
+      "y": -1392, 
+      "attributes": {}, 
+      "id": "寇春华", 
+      "size": 3
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "孟广禄", 
+      "x": 1392, 
+      "y": 625, 
+      "attributes": {}, 
+      "id": "孟广禄", 
       "size": 5
     }, 
     {
-      "color": "#339CA8", 
-      "label": "董俊峰", 
-      "attributes": {}, 
-      "y": 1822, 
-      "x": -1023, 
-      "id": "董俊峰", 
-      "size": 1
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "寇春华", 
-      "attributes": {}, 
-      "y": -1392, 
-      "x": 3755, 
-      "id": "寇春华", 
-      "size": 1
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "孟广禄", 
-      "attributes": {}, 
-      "y": 625, 
-      "x": 1392, 
-      "id": "孟广禄", 
-      "size": 1
-    }, 
-    {
-      "color": "#E6B600", 
+      "color": "#39F813", 
       "label": "赵德芝", 
-      "attributes": {}, 
-      "y": 1420, 
       "x": 127, 
+      "y": 1420, 
+      "attributes": {}, 
       "id": "赵德芝", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "丁震春", 
+      "x": -504, 
+      "y": 448, 
+      "attributes": {}, 
+      "id": "丁震春", 
+      "size": 1
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "俞鉴", 
+      "x": -3138, 
+      "y": 509, 
+      "attributes": {}, 
+      "id": "俞鉴", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "丁震春", 
-      "attributes": {}, 
-      "y": 448, 
-      "x": -504, 
-      "id": "丁震春", 
-      "size": 9
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "俞鉴", 
-      "attributes": {}, 
-      "y": 509, 
-      "x": -3138, 
-      "id": "俞鉴", 
-      "size": 1
-    }, 
-    {
-      "color": "#CDA819", 
+      "color": "#9ADC49", 
       "label": "罗喜钧", 
-      "attributes": {}, 
-      "y": 637, 
       "x": -4380, 
+      "y": 637, 
+      "attributes": {}, 
       "id": "罗喜钧", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "叶鸣兰", 
-      "attributes": {}, 
-      "y": 1408, 
       "x": 4423, 
+      "y": 1408, 
+      "attributes": {}, 
       "id": "叶鸣兰", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "李丽芳", 
-      "attributes": {}, 
-      "y": 794, 
-      "x": 1270, 
-      "id": "李丽芳", 
-      "size": 6
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "陈汉文", 
-      "attributes": {}, 
-      "y": 1417, 
-      "x": -1024, 
-      "id": "陈汉文", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
-      "label": "程玉菁", 
+      "color": "#39F813", 
+      "label": "李丽芳", 
+      "x": 1270, 
+      "y": 794, 
       "attributes": {}, 
-      "y": -1802, 
+      "id": "李丽芳", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "陈汉文", 
+      "x": -1024, 
+      "y": 1417, 
+      "attributes": {}, 
+      "id": "陈汉文", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "程玉菁", 
       "x": -2341, 
+      "y": -1802, 
+      "attributes": {}, 
       "id": "程玉菁", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#1919c7", 
       "label": "高亚樵", 
-      "attributes": {}, 
-      "y": 506, 
       "x": -823, 
+      "y": 506, 
+      "attributes": {}, 
       "id": "高亚樵", 
-      "size": 14
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "赵君玉", 
-      "attributes": {}, 
-      "y": 64, 
       "x": 446, 
+      "y": 64, 
+      "attributes": {}, 
       "id": "赵君玉", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E62F57", 
       "label": "叶蓬", 
-      "attributes": {}, 
-      "y": 530, 
       "x": -544, 
+      "y": 530, 
+      "attributes": {}, 
       "id": "叶蓬", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#138DF8", 
       "label": "朱文英", 
-      "attributes": {}, 
-      "y": -1829, 
       "x": -2073, 
+      "y": -1829, 
+      "attributes": {}, 
       "id": "朱文英", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "李砚秀", 
+      "x": 1233, 
+      "y": 1927, 
+      "attributes": {}, 
+      "id": "李砚秀", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
-      "label": "李砚秀", 
-      "attributes": {}, 
-      "y": 1927, 
-      "x": 1233, 
-      "id": "李砚秀", 
-      "size": 7
-    }, 
-    {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "郑岩", 
-      "attributes": {}, 
-      "y": 1894, 
       "x": -3103, 
+      "y": 1894, 
+      "attributes": {}, 
       "id": "郑岩", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "张四全", 
-      "attributes": {}, 
-      "y": 45, 
       "x": -2852, 
+      "y": 45, 
+      "attributes": {}, 
       "id": "张四全", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "徐兰沅", 
-      "attributes": {}, 
-      "y": -1496, 
       "x": -4354, 
+      "y": -1496, 
+      "attributes": {}, 
       "id": "徐兰沅", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "余玉琴", 
-      "attributes": {}, 
-      "y": -1179, 
       "x": 1590, 
+      "y": -1179, 
+      "attributes": {}, 
       "id": "余玉琴", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "钟鸣岐", 
-      "attributes": {}, 
-      "y": 1066, 
       "x": -3361, 
+      "y": 1066, 
+      "attributes": {}, 
       "id": "钟鸣岐", 
-      "size": 8
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "梁谷音", 
-      "attributes": {}, 
-      "y": 486, 
       "x": -4798, 
+      "y": 486, 
+      "attributes": {}, 
       "id": "梁谷音", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "阎世善", 
-      "attributes": {}, 
-      "y": 1959, 
       "x": -3484, 
+      "y": 1959, 
+      "attributes": {}, 
       "id": "阎世善", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "朱凤桐", 
+      "x": -2720, 
+      "y": 286, 
+      "attributes": {}, 
+      "id": "朱凤桐", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "康清涛", 
+      "x": -509, 
+      "y": -136, 
+      "attributes": {}, 
+      "id": "康清涛", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "张宏逵", 
+      "x": -2358, 
+      "y": -337, 
+      "attributes": {}, 
+      "id": "张宏逵", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
-      "label": "朱凤桐", 
-      "attributes": {}, 
-      "y": 286, 
-      "x": -2720, 
-      "id": "朱凤桐", 
-      "size": 8
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "康清涛", 
-      "attributes": {}, 
-      "y": -136, 
-      "x": -509, 
-      "id": "康清涛", 
-      "size": 3
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "张宏逵", 
-      "attributes": {}, 
-      "y": -337, 
-      "x": -2358, 
-      "id": "张宏逵", 
-      "size": 9
-    }, 
-    {
-      "color": "#E6B600", 
+      "color": "#E0E750", 
       "label": "杨秋雯", 
-      "attributes": {}, 
-      "y": 2263, 
       "x": 2733, 
+      "y": 2263, 
+      "attributes": {}, 
       "id": "杨秋雯", 
       "size": 3
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "黄玉华", 
-      "attributes": {}, 
-      "y": -1255, 
       "x": 526, 
+      "y": -1255, 
+      "attributes": {}, 
       "id": "黄玉华", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#39F813", 
       "label": "朱桂芳", 
-      "attributes": {}, 
-      "y": -1680, 
       "x": 3216, 
+      "y": -1680, 
+      "attributes": {}, 
       "id": "朱桂芳", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "孙正阳", 
-      "attributes": {}, 
-      "y": 604, 
       "x": -3433, 
-      "id": "孙正阳", 
-      "size": 4
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "杜镇杰", 
+      "y": 604, 
       "attributes": {}, 
-      "y": -1487, 
-      "x": 2475, 
-      "id": "杜镇杰", 
+      "id": "孙正阳", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "王长林", 
+      "color": "#FE2EC8", 
+      "label": "杜镇杰", 
+      "x": 2475, 
+      "y": -1487, 
       "attributes": {}, 
-      "y": 1318, 
-      "x": -4866, 
-      "id": "王长林", 
-      "size": 3
+      "id": "杜镇杰", 
+      "size": 14
     }, 
     {
-      "color": "#339CA8", 
-      "label": "盖玉亭", 
+      "color": "#19C95C", 
+      "label": "王长林", 
+      "x": -4866, 
+      "y": 1318, 
       "attributes": {}, 
-      "y": -2397, 
+      "id": "王长林", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "盖玉亭", 
       "x": -4493, 
+      "y": -2397, 
+      "attributes": {}, 
       "id": "盖玉亭", 
       "size": 2
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#8E1AC8", 
       "label": "王益禄", 
-      "attributes": {}, 
-      "y": -400, 
       "x": -3259, 
+      "y": -400, 
+      "attributes": {}, 
       "id": "王益禄", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "林树森", 
-      "attributes": {}, 
-      "y": 1856, 
       "x": 1255, 
+      "y": 1856, 
+      "attributes": {}, 
       "id": "林树森", 
-      "size": 14
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#39F813", 
       "label": "李占华", 
-      "attributes": {}, 
-      "y": -946, 
       "x": 3789, 
+      "y": -946, 
+      "attributes": {}, 
       "id": "李占华", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "陈盛荪", 
-      "attributes": {}, 
-      "y": 2260, 
       "x": -50, 
+      "y": 2260, 
+      "attributes": {}, 
       "id": "陈盛荪", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "程富云", 
-      "attributes": {}, 
-      "y": -2369, 
       "x": 4725, 
+      "y": -2369, 
+      "attributes": {}, 
       "id": "程富云", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "李桂芬", 
-      "attributes": {}, 
-      "y": 1928, 
       "x": 4374, 
+      "y": 1928, 
+      "attributes": {}, 
       "id": "李桂芬", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "厉慧良", 
+      "x": 1174, 
+      "y": -1571, 
+      "attributes": {}, 
+      "id": "厉慧良", 
+      "size": 1
+    }, 
+    {
+      "color": "#E62F57", 
+      "label": "赵葆秀", 
+      "x": -858, 
+      "y": 353, 
+      "attributes": {}, 
+      "id": "赵葆秀", 
       "size": 2
     }, 
     {
-      "color": "#339CA8", 
-      "label": "厉慧良", 
-      "attributes": {}, 
-      "y": -1571, 
-      "x": 1174, 
-      "id": "厉慧良", 
-      "size": 11
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "赵葆秀", 
-      "attributes": {}, 
-      "y": 353, 
-      "x": -858, 
-      "id": "赵葆秀", 
-      "size": 1
-    }, 
-    {
-      "color": "#005EAA", 
+      "color": "#138DF8", 
       "label": "毕英琦", 
-      "attributes": {}, 
-      "y": 16, 
       "x": -1589, 
+      "y": 16, 
+      "attributes": {}, 
       "id": "毕英琦", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#F88A13", 
       "label": "谭志道", 
-      "attributes": {}, 
-      "y": -2233, 
       "x": -398, 
+      "y": -2233, 
+      "attributes": {}, 
       "id": "谭志道", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
       "label": "王震", 
-      "attributes": {}, 
-      "y": 70, 
       "x": -4257, 
+      "y": 70, 
+      "attributes": {}, 
       "id": "王震", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#9ADC49", 
       "label": "梁连柱", 
-      "attributes": {}, 
-      "y": -1679, 
       "x": 962, 
+      "y": -1679, 
+      "attributes": {}, 
       "id": "梁连柱", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#c71969", 
       "label": "苏敬武", 
-      "attributes": {}, 
-      "y": -1011, 
       "x": -831, 
+      "y": -1011, 
+      "attributes": {}, 
       "id": "苏敬武", 
-      "size": 4
+      "size": 119
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "何佩森", 
-      "attributes": {}, 
-      "y": 95, 
       "x": 4651, 
+      "y": 95, 
+      "attributes": {}, 
       "id": "何佩森", 
-      "size": 11
+      "size": 3
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "李开屏", 
-      "attributes": {}, 
-      "y": 2273, 
       "x": -4122, 
+      "y": 2273, 
+      "attributes": {}, 
       "id": "李开屏", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "李盛佐", 
-      "attributes": {}, 
-      "y": 472, 
       "x": 3257, 
+      "y": 472, 
+      "attributes": {}, 
       "id": "李盛佐", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "蔡正仁", 
-      "attributes": {}, 
-      "y": -2118, 
       "x": -4627, 
+      "y": -2118, 
+      "attributes": {}, 
       "id": "蔡正仁", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "张德华", 
-      "attributes": {}, 
-      "y": -2442, 
       "x": -2846, 
+      "y": -2442, 
+      "attributes": {}, 
       "id": "张德华", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#138DF8", 
       "label": "徐东明", 
-      "attributes": {}, 
-      "y": 1827, 
       "x": 4226, 
+      "y": 1827, 
+      "attributes": {}, 
       "id": "徐东明", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "冯志孝", 
-      "attributes": {}, 
-      "y": -1691, 
       "x": 1390, 
+      "y": -1691, 
+      "attributes": {}, 
       "id": "冯志孝", 
-      "size": 5
+      "size": 2
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "尚小云", 
-      "attributes": {}, 
-      "y": -1033, 
       "x": -2617, 
+      "y": -1033, 
+      "attributes": {}, 
       "id": "尚小云", 
-      "size": 42
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#19C95C", 
       "label": "陈德霖", 
-      "attributes": {}, 
-      "y": 2020, 
       "x": 1913, 
+      "y": 2020, 
+      "attributes": {}, 
       "id": "陈德霖", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
       "label": "关栋天", 
-      "attributes": {}, 
-      "y": -2438, 
       "x": 4909, 
+      "y": -2438, 
+      "attributes": {}, 
       "id": "关栋天", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E62F57", 
       "label": "侯丹梅", 
-      "attributes": {}, 
-      "y": -314, 
       "x": 2387, 
+      "y": -314, 
+      "attributes": {}, 
       "id": "侯丹梅", 
-      "size": 2
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "李光", 
-      "attributes": {}, 
-      "y": -2381, 
-      "x": -2883, 
-      "id": "李光", 
-      "size": 3
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "马连良", 
-      "attributes": {}, 
-      "y": 1683, 
-      "x": 2545, 
-      "id": "马连良", 
-      "size": 51
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "林金培", 
-      "attributes": {}, 
-      "y": -828, 
-      "x": -3048, 
-      "id": "林金培", 
-      "size": 2
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "温如华", 
-      "attributes": {}, 
-      "y": 1042, 
-      "x": 2624, 
-      "id": "温如华", 
-      "size": 8
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "周少麟", 
-      "attributes": {}, 
-      "y": -1650, 
-      "x": 4768, 
-      "id": "周少麟", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "杨秋玲", 
+      "color": "#E62F57", 
+      "label": "李光", 
+      "x": -2883, 
+      "y": -2381, 
       "attributes": {}, 
-      "y": -1931, 
-      "x": -664, 
-      "id": "杨秋玲", 
-      "size": 4
+      "id": "李光", 
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
-      "label": "熊明霞", 
+      "color": "#1919c7", 
+      "label": "马连良", 
+      "x": 2545, 
+      "y": 1683, 
       "attributes": {}, 
-      "y": -1453, 
+      "id": "马连良", 
+      "size": 1
+    }, 
+    {
+      "color": "#8419c7", 
+      "label": "林金培", 
+      "x": -3048, 
+      "y": -828, 
+      "attributes": {}, 
+      "id": "林金培", 
+      "size": 18
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "温如华", 
+      "x": 2624, 
+      "y": 1042, 
+      "attributes": {}, 
+      "id": "温如华", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "周少麟", 
+      "x": 4768, 
+      "y": -1650, 
+      "attributes": {}, 
+      "id": "周少麟", 
+      "size": 10
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "杨秋玲", 
+      "x": -664, 
+      "y": -1931, 
+      "attributes": {}, 
+      "id": "杨秋玲", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "熊明霞", 
       "x": -2146, 
+      "y": -1453, 
+      "attributes": {}, 
       "id": "熊明霞", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#1919c7", 
       "label": "崔荣英", 
-      "attributes": {}, 
-      "y": -1939, 
       "x": -4266, 
+      "y": -1939, 
+      "attributes": {}, 
       "id": "崔荣英", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E62F57", 
       "label": "谢锐青", 
-      "attributes": {}, 
-      "y": 1457, 
       "x": -1632, 
+      "y": 1457, 
+      "attributes": {}, 
       "id": "谢锐青", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "方英培", 
-      "attributes": {}, 
-      "y": -1690, 
       "x": 4182, 
+      "y": -1690, 
+      "attributes": {}, 
       "id": "方英培", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "潘月樵", 
-      "attributes": {}, 
-      "y": -585, 
       "x": 2914, 
+      "y": -585, 
+      "attributes": {}, 
       "id": "潘月樵", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#E0E750", 
       "label": "奚培民", 
-      "attributes": {}, 
-      "y": -1751, 
       "x": 2077, 
-      "id": "奚培民", 
-      "size": 48
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "黄孝慈", 
+      "y": -1751, 
       "attributes": {}, 
-      "y": 2286, 
-      "x": -3078, 
-      "id": "黄孝慈", 
+      "id": "奚培民", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#39F813", 
+      "label": "黄孝慈", 
+      "x": -3078, 
+      "y": 2286, 
+      "attributes": {}, 
+      "id": "黄孝慈", 
+      "size": 2
+    }, 
+    {
+      "color": "#E62F57", 
       "label": "刘长瑜", 
-      "attributes": {}, 
-      "y": 1914, 
       "x": 3932, 
+      "y": 1914, 
+      "attributes": {}, 
       "id": "刘长瑜", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "李金泉", 
-      "attributes": {}, 
-      "y": 1641, 
       "x": -2260, 
+      "y": 1641, 
+      "attributes": {}, 
       "id": "李金泉", 
-      "size": 11
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#138DF8", 
       "label": "康静", 
-      "attributes": {}, 
-      "y": 1552, 
       "x": -4370, 
+      "y": 1552, 
+      "attributes": {}, 
       "id": "康静", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#19C95C", 
       "label": "杜近芳", 
-      "attributes": {}, 
-      "y": -2361, 
       "x": 2922, 
+      "y": -2361, 
+      "attributes": {}, 
       "id": "杜近芳", 
-      "size": 23
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#19C95C", 
       "label": "苏维明", 
-      "attributes": {}, 
-      "y": 1457, 
       "x": 2097, 
+      "y": 1457, 
+      "attributes": {}, 
       "id": "苏维明", 
+      "size": 1
+    }, 
+    {
+      "color": "#19C95C", 
+      "label": "童大强", 
+      "x": 3830, 
+      "y": -1569, 
+      "attributes": {}, 
+      "id": "童大强", 
+      "size": 1
+    }, 
+    {
+      "color": "#c71969", 
+      "label": "郑亦秋", 
+      "x": 2405, 
+      "y": -2065, 
+      "attributes": {}, 
+      "id": "郑亦秋", 
       "size": 11
     }, 
     {
-      "color": "#E6B600", 
-      "label": "童大强", 
-      "attributes": {}, 
-      "y": -1569, 
-      "x": 3830, 
-      "id": "童大强", 
-      "size": 3
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "郑亦秋", 
-      "attributes": {}, 
-      "y": -2065, 
-      "x": 2405, 
-      "id": "郑亦秋", 
-      "size": 13
-    }, 
-    {
-      "color": "#CDA819", 
+      "color": "#F88A13", 
       "label": "张馨月", 
-      "attributes": {}, 
-      "y": -3, 
       "x": -4300, 
+      "y": -3, 
+      "attributes": {}, 
       "id": "张馨月", 
-      "size": 6
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "小毛剑秋", 
-      "attributes": {}, 
-      "y": -321, 
       "x": -3375, 
+      "y": -321, 
+      "attributes": {}, 
       "id": "小毛剑秋", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#1919c7", 
       "label": "曹世才", 
-      "attributes": {}, 
-      "y": -2104, 
       "x": -3091, 
+      "y": -2104, 
+      "attributes": {}, 
       "id": "曹世才", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#138DF8", 
       "label": "高宝贤", 
-      "attributes": {}, 
-      "y": -2131, 
       "x": 3855, 
+      "y": -2131, 
+      "attributes": {}, 
       "id": "高宝贤", 
-      "size": 3
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "杨荣斌", 
-      "attributes": {}, 
-      "y": -2154, 
       "x": -4666, 
+      "y": -2154, 
+      "attributes": {}, 
       "id": "杨荣斌", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#F88A13", 
       "label": "李宝櫆", 
-      "attributes": {}, 
-      "y": 671, 
       "x": 1580, 
+      "y": 671, 
+      "attributes": {}, 
       "id": "李宝櫆", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#8E1AC8", 
       "label": "李世霖", 
-      "attributes": {}, 
-      "y": 574, 
       "x": -2021, 
+      "y": 574, 
+      "attributes": {}, 
       "id": "李世霖", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#E0E750", 
       "label": "张威", 
-      "attributes": {}, 
-      "y": -1911, 
       "x": -4124, 
+      "y": -1911, 
+      "attributes": {}, 
       "id": "张威", 
-      "size": 2
+      "size": 9
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E62F57", 
       "label": "张世兰", 
-      "attributes": {}, 
-      "y": -949, 
       "x": -2496, 
+      "y": -949, 
+      "attributes": {}, 
       "id": "张世兰", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#8E1AC8", 
       "label": "叶少兰", 
-      "attributes": {}, 
-      "y": 1615, 
       "x": -3057, 
+      "y": 1615, 
+      "attributes": {}, 
       "id": "叶少兰", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#c71919", 
       "label": "贯镇山", 
-      "attributes": {}, 
-      "y": 1395, 
       "x": -311, 
+      "y": 1395, 
+      "attributes": {}, 
       "id": "贯镇山", 
-      "size": 1
+      "size": 12
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#F88A13", 
       "label": "黄金璧", 
-      "attributes": {}, 
-      "y": 1681, 
       "x": -4727, 
+      "y": 1681, 
+      "attributes": {}, 
       "id": "黄金璧", 
-      "size": 7
+      "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "王喜秀", 
-      "attributes": {}, 
-      "y": -2044, 
       "x": 3787, 
+      "y": -2044, 
+      "attributes": {}, 
       "id": "王喜秀", 
-      "size": 1
+      "size": 4
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "刘永春", 
-      "attributes": {}, 
-      "y": 1999, 
       "x": -886, 
+      "y": 1999, 
+      "attributes": {}, 
       "id": "刘永春", 
-      "size": 2
+      "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#E0E750", 
       "label": "凤宝桐", 
-      "attributes": {}, 
-      "y": 2138, 
       "x": 1065, 
+      "y": 2138, 
+      "attributes": {}, 
       "id": "凤宝桐", 
-      "size": 19
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#E0E750", 
       "label": "韩增祥", 
-      "attributes": {}, 
-      "y": 1056, 
       "x": 781, 
+      "y": 1056, 
+      "attributes": {}, 
       "id": "韩增祥", 
-      "size": 2
+      "size": 3
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "朱素云", 
-      "attributes": {}, 
-      "y": 665, 
       "x": -544, 
+      "y": 665, 
+      "attributes": {}, 
       "id": "朱素云", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#39F813", 
       "label": "王平", 
-      "attributes": {}, 
-      "y": -822, 
       "x": 4950, 
+      "y": -822, 
+      "attributes": {}, 
       "id": "王平", 
-      "size": 1
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "王蕙芳", 
-      "attributes": {}, 
-      "y": -541, 
-      "x": -1944, 
-      "id": "王蕙芳", 
-      "size": 4
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "张巨萍", 
-      "attributes": {}, 
-      "y": 928, 
-      "x": 1430, 
-      "id": "张巨萍", 
-      "size": 1
-    }, 
-    {
-      "color": "#339CA8", 
-      "label": "汪正华", 
-      "attributes": {}, 
-      "y": 712, 
-      "x": -1928, 
-      "id": "汪正华", 
       "size": 2
     }, 
     {
-      "color": "#2B821D", 
-      "label": "于万增", 
+      "color": "#19C95C", 
+      "label": "王蕙芳", 
+      "x": -1944, 
+      "y": -541, 
       "attributes": {}, 
-      "y": -1697, 
-      "x": 1033, 
-      "id": "于万增", 
+      "id": "王蕙芳", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
-      "label": "李元春", 
+      "color": "#E62F57", 
+      "label": "张巨萍", 
+      "x": 1430, 
+      "y": 928, 
       "attributes": {}, 
-      "y": -1029, 
+      "id": "张巨萍", 
+      "size": 8
+    }, 
+    {
+      "color": "#E0E750", 
+      "label": "汪正华", 
+      "x": -1928, 
+      "y": 712, 
+      "attributes": {}, 
+      "id": "汪正华", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "于万增", 
+      "x": 1033, 
+      "y": -1697, 
+      "attributes": {}, 
+      "id": "于万增", 
+      "size": 2
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李元春", 
       "x": -3574, 
+      "y": -1029, 
+      "attributes": {}, 
       "id": "李元春", 
       "size": 2
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#1919c7", 
       "label": "李如春", 
-      "attributes": {}, 
-      "y": -810, 
       "x": 1264, 
-      "id": "李如春", 
-      "size": 4
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "达子红", 
+      "y": -810, 
       "attributes": {}, 
-      "y": 1373, 
-      "x": -1974, 
-      "id": "达子红", 
+      "id": "李如春", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
+      "label": "达子红", 
+      "x": -1974, 
+      "y": 1373, 
+      "attributes": {}, 
+      "id": "达子红", 
+      "size": 2
+    }, 
+    {
+      "color": "#E62F57", 
       "label": "刘汉臣", 
-      "attributes": {}, 
-      "y": 1448, 
       "x": -1263, 
+      "y": 1448, 
+      "attributes": {}, 
       "id": "刘汉臣", 
-      "size": 5
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "徐鸣远", 
-      "attributes": {}, 
-      "y": -1747, 
       "x": -984, 
+      "y": -1747, 
+      "attributes": {}, 
       "id": "徐鸣远", 
-      "size": 11
+      "size": 2
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#9ADC49", 
       "label": "姚玉英", 
-      "attributes": {}, 
-      "y": -1805, 
       "x": 26, 
+      "y": -1805, 
+      "attributes": {}, 
       "id": "姚玉英", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E62F57", 
       "label": "刘连伦", 
-      "attributes": {}, 
-      "y": -1974, 
       "x": -4614, 
-      "id": "刘连伦", 
-      "size": 6
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "王婉华", 
+      "y": -1974, 
       "attributes": {}, 
-      "y": -1799, 
-      "x": -4269, 
-      "id": "王婉华", 
+      "id": "刘连伦", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
-      "label": "赵群", 
+      "color": "#138DF8", 
+      "label": "王婉华", 
+      "x": -4269, 
+      "y": -1799, 
       "attributes": {}, 
-      "y": -1927, 
+      "id": "王婉华", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "赵群", 
       "x": 3852, 
+      "y": -1927, 
+      "attributes": {}, 
       "id": "赵群", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#F88A13", 
       "label": "宋玉庆", 
-      "attributes": {}, 
-      "y": 1582, 
       "x": 468, 
+      "y": 1582, 
+      "attributes": {}, 
       "id": "宋玉庆", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#1919c7", 
       "label": "王则昭", 
-      "attributes": {}, 
-      "y": -516, 
       "x": -11, 
+      "y": -516, 
+      "attributes": {}, 
       "id": "王则昭", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "陈鹤峰", 
-      "attributes": {}, 
-      "y": -1315, 
       "x": 4374, 
+      "y": -1315, 
+      "attributes": {}, 
       "id": "陈鹤峰", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "张达发", 
-      "attributes": {}, 
-      "y": 1792, 
       "x": -2315, 
+      "y": 1792, 
+      "attributes": {}, 
       "id": "张达发", 
-      "size": 4
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#9ADC49", 
       "label": "白玉艳", 
-      "attributes": {}, 
-      "y": -248, 
       "x": 2880, 
+      "y": -248, 
+      "attributes": {}, 
       "id": "白玉艳", 
       "size": 1
     }, 
     {
-      "color": "#CDA819", 
+      "color": "#19C95C", 
       "label": "姚玉芙", 
-      "attributes": {}, 
-      "y": -506, 
       "x": -4079, 
+      "y": -506, 
+      "attributes": {}, 
       "id": "姚玉芙", 
       "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#8E1AC8", 
       "label": "冯玉增", 
-      "attributes": {}, 
-      "y": 1810, 
       "x": -3065, 
+      "y": 1810, 
+      "attributes": {}, 
       "id": "冯玉增", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
+      "color": "#F88A13", 
       "label": "范宝亭", 
-      "attributes": {}, 
-      "y": -975, 
       "x": 3885, 
+      "y": -975, 
+      "attributes": {}, 
       "id": "范宝亭", 
-      "size": 4
+      "size": 7
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "许盛奎", 
-      "attributes": {}, 
-      "y": 1729, 
       "x": -1172, 
+      "y": 1729, 
+      "attributes": {}, 
       "id": "许盛奎", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "王熙春", 
-      "attributes": {}, 
-      "y": 189, 
       "x": -614, 
+      "y": 189, 
+      "attributes": {}, 
       "id": "王熙春", 
-      "size": 1
+      "size": 2
     }, 
     {
-      "color": "#E6B600", 
+      "color": "#8E1AC8", 
       "label": "刘鸿声", 
-      "attributes": {}, 
-      "y": -188, 
       "x": 1475, 
+      "y": -188, 
+      "attributes": {}, 
       "id": "刘鸿声", 
-      "size": 6
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "程砚秋", 
-      "attributes": {}, 
-      "y": -2469, 
-      "x": -2433, 
-      "id": "程砚秋", 
-      "size": 43
-    }, 
-    {
-      "color": "#005EAA", 
-      "label": "刘砚亭", 
-      "attributes": {}, 
-      "y": -2145, 
-      "x": -1646, 
-      "id": "刘砚亭", 
       "size": 1
     }, 
     {
-      "color": "#E6B600", 
-      "label": "袁金凯", 
+      "color": "#8E1AC8", 
+      "label": "程砚秋", 
+      "x": -2433, 
+      "y": -2469, 
       "attributes": {}, 
-      "y": -1064, 
+      "id": "程砚秋", 
+      "size": 1
+    }, 
+    {
+      "color": "#FE2EC8", 
+      "label": "刘砚亭", 
+      "x": -1646, 
+      "y": -2145, 
+      "attributes": {}, 
+      "id": "刘砚亭", 
+      "size": 109
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "袁金凯", 
       "x": 944, 
+      "y": -1064, 
+      "attributes": {}, 
       "id": "袁金凯", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#8E1AC8", 
       "label": "陈吟秋", 
-      "attributes": {}, 
-      "y": -610, 
       "x": -461, 
+      "y": -610, 
+      "attributes": {}, 
       "id": "陈吟秋", 
       "size": 1
     }, 
     {
-      "color": "#339CA8", 
+      "color": "#E0E750", 
       "label": "尹月樵", 
-      "attributes": {}, 
-      "y": -2329, 
       "x": -914, 
+      "y": -2329, 
+      "attributes": {}, 
       "id": "尹月樵", 
-      "size": 2
-    }, 
-    {
-      "color": "#0098D9", 
-      "label": "刘琢瑜", 
-      "attributes": {}, 
-      "y": 2445, 
-      "x": 133, 
-      "id": "刘琢瑜", 
-      "size": 13
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "高世寿", 
-      "attributes": {}, 
-      "y": 1579, 
-      "x": -236, 
-      "id": "高世寿", 
-      "size": 2
-    }, 
-    {
-      "color": "#CDA819", 
-      "label": "李洪春", 
-      "attributes": {}, 
-      "y": -1020, 
-      "x": 4448, 
-      "id": "李洪春", 
-      "size": 8
-    }, 
-    {
-      "color": "#C12E34", 
-      "label": "雷喜福", 
-      "attributes": {}, 
-      "y": -1814, 
-      "x": 1848, 
-      "id": "雷喜福", 
-      "size": 25
-    }, 
-    {
-      "color": "#2B821D", 
-      "label": "傅德威", 
-      "attributes": {}, 
-      "y": 103, 
-      "x": -880, 
-      "id": "傅德威", 
-      "size": 20
-    }, 
-    {
-      "color": "#E6B600", 
-      "label": "小杨月楼", 
-      "attributes": {}, 
-      "y": 1848, 
-      "x": 2554, 
-      "id": "小杨月楼", 
       "size": 1
     }, 
     {
-      "color": "#005EAA", 
-      "label": "郭仲衡", 
+      "color": "#1919c7", 
+      "label": "刘琢瑜", 
+      "x": 133, 
+      "y": 2445, 
       "attributes": {}, 
-      "y": 958, 
-      "x": -3940, 
-      "id": "郭仲衡", 
-      "size": 4
+      "id": "刘琢瑜", 
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
-      "label": "李军", 
+      "color": "#39F813", 
+      "label": "高世寿", 
+      "x": -236, 
+      "y": 1579, 
       "attributes": {}, 
-      "y": 2268, 
+      "id": "高世寿", 
+      "size": 1
+    }, 
+    {
+      "color": "#138DF8", 
+      "label": "李洪春", 
+      "x": 4448, 
+      "y": -1020, 
+      "attributes": {}, 
+      "id": "李洪春", 
+      "size": 1
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "雷喜福", 
+      "x": 1848, 
+      "y": -1814, 
+      "attributes": {}, 
+      "id": "雷喜福", 
+      "size": 1
+    }, 
+    {
+      "color": "#F88A13", 
+      "label": "傅德威", 
+      "x": -880, 
+      "y": 103, 
+      "attributes": {}, 
+      "id": "傅德威", 
+      "size": 9
+    }, 
+    {
+      "color": "#39F813", 
+      "label": "小杨月楼", 
+      "x": 2554, 
+      "y": 1848, 
+      "attributes": {}, 
+      "id": "小杨月楼", 
+      "size": 2
+    }, 
+    {
+      "color": "#1919c7", 
+      "label": "郭仲衡", 
+      "x": -3940, 
+      "y": 958, 
+      "attributes": {}, 
+      "id": "郭仲衡", 
+      "size": 1
+    }, 
+    {
+      "color": "#8E1AC8", 
+      "label": "李军", 
       "x": -2079, 
+      "y": 2268, 
+      "attributes": {}, 
       "id": "李军", 
       "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#39F813", 
       "label": "梁一鸣", 
-      "attributes": {}, 
-      "y": 524, 
       "x": 4868, 
+      "y": 524, 
+      "attributes": {}, 
       "id": "梁一鸣", 
-      "size": 14
+      "size": 1
     }, 
     {
-      "color": "#2B821D", 
+      "color": "#1919c7", 
       "label": "王瑶卿", 
-      "attributes": {}, 
-      "y": -870, 
       "x": 17, 
+      "y": -870, 
+      "attributes": {}, 
       "id": "王瑶卿", 
-      "size": 11
+      "size": 1
     }, 
     {
-      "color": "#C12E34", 
+      "color": "#E62F57", 
       "label": "沈金波", 
-      "attributes": {}, 
-      "y": -1297, 
       "x": 1026, 
+      "y": -1297, 
+      "attributes": {}, 
       "id": "沈金波", 
       "size": 1
     }, 
     {
-      "color": "#0098D9", 
+      "color": "#39F813", 
       "label": "姜妙香", 
-      "attributes": {}, 
-      "y": 912, 
       "x": -3820, 
+      "y": 912, 
+      "attributes": {}, 
       "id": "姜妙香", 
-      "size": 18
+      "size": 1
     }
   ], 
   "edges": [

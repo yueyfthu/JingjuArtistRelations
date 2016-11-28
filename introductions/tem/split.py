@@ -1,6 +1,6 @@
 import json
 
-f = file('xikao.json')
+f = file('paihang.json')
 data = json.load(f)
 f.close()
 
